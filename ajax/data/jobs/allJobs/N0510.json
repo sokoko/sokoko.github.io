@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N0510",
+  "description" : "0511 - Library, Archive, Museum and Art Gallery Managers; 0512 - Managers in Publishing, Motion Pictures, Broadcasting and Performing Arts; 0513 - Recreation and Sport Program and Service Directors",
+  "name" : "Managers In Art, Culture, Recreation And Sport",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 10000.0
+    } ],
+    "name" : "Managers In Art, Culture, Recreation And Sport"
+  } ]
+}

@@ -1,0 +1,210 @@
+{
+  "title" : "Ont. Universities Enrollment - By Gender - 2012/2013",
+  "description" : "Ont. Universities Enrollment - By Gender - Year of 2012/2013",
+  "prompt" : "Select a College:",
+  "data" : [ {
+    "entity_name" : "Algoma",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 567
+    }, {
+      "property" : "Male",
+      "property_value" : 539
+    } ]
+  }, {
+    "entity_name" : "Brock",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 9128
+    }, {
+      "property" : "Male",
+      "property_value" : 6726
+    } ]
+  }, {
+    "entity_name" : "Carleton",
+    "entity_value" : [ {
+      "property" : "Male",
+      "property_value" : 11714
+    }, {
+      "property" : "Female",
+      "property_value" : 10722
+    } ]
+  }, {
+    "entity_name" : "Dominician",
+    "entity_value" : [ {
+      "property" : "Male",
+      "property_value" : 77
+    }, {
+      "property" : "Female",
+      "property_value" : 30
+    } ]
+  }, {
+    "entity_name" : "Guelph",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 14956
+    }, {
+      "property" : "Male",
+      "property_value" : 9962
+    } ]
+  }, {
+    "entity_name" : "Lakehead",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 4158
+    }, {
+      "property" : "Male",
+      "property_value" : 2942
+    } ]
+  }, {
+    "entity_name" : "Laurentian",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 4146
+    }, {
+      "property" : "Male",
+      "property_value" : 2607
+    } ]
+  }, {
+    "entity_name" : "Mcmaster",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 13847
+    }, {
+      "property" : "Male",
+      "property_value" : 11946
+    } ]
+  }, {
+    "entity_name" : "Nipissing",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 2560
+    }, {
+      "property" : "Male",
+      "property_value" : 1206
+    } ]
+  }, {
+    "entity_name" : "Nosm",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 248
+    }, {
+      "property" : "Male",
+      "property_value" : 139
+    } ]
+  }, {
+    "entity_name" : "Ocad",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 2435
+    }, {
+      "property" : "Male",
+      "property_value" : 1136
+    } ]
+  }, {
+    "entity_name" : "Ottawa",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 21089
+    }, {
+      "property" : "Male",
+      "property_value" : 14043
+    } ]
+  }, {
+    "entity_name" : "Queen\"s",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 12062
+    }, {
+      "property" : "Male",
+      "property_value" : 8987
+    } ]
+  }, {
+    "entity_name" : "Ryerson",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 12161
+    }, {
+      "property" : "Male",
+      "property_value" : 10551
+    }, {
+      "property" : "Unknown",
+      "property_value" : 16
+    } ]
+  }, {
+    "entity_name" : "Toronto",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 40679
+    }, {
+      "property" : "Male",
+      "property_value" : 32515
+    }, {
+      "property" : "Unknown",
+      "property_value" : 21
+    } ]
+  }, {
+    "entity_name" : "Trent",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 4419
+    }, {
+      "property" : "Male",
+      "property_value" : 2405
+    } ]
+  }, {
+    "entity_name" : "Uoit",
+    "entity_value" : [ {
+      "property" : "Male",
+      "property_value" : 5054
+    }, {
+      "property" : "Female",
+      "property_value" : 3418
+    } ]
+  }, {
+    "entity_name" : "Waterloo",
+    "entity_value" : [ {
+      "property" : "Male",
+      "property_value" : 18343
+    }, {
+      "property" : "Female",
+      "property_value" : 13844
+    } ]
+  }, {
+    "entity_name" : "Western",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 18399
+    }, {
+      "property" : "Male",
+      "property_value" : 15087
+    } ]
+  }, {
+    "entity_name" : "Wilfrid Laurier",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 9436
+    }, {
+      "property" : "Male",
+      "property_value" : 6767
+    } ]
+  }, {
+    "entity_name" : "Windsor",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 7315
+    }, {
+      "property" : "Male",
+      "property_value" : 6395
+    } ]
+  }, {
+    "entity_name" : "York",
+    "entity_value" : [ {
+      "property" : "Female",
+      "property_value" : 26555
+    }, {
+      "property" : "Male",
+      "property_value" : 18609
+    } ]
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N2281",
+  "description" : "2281 - Computer and Network Operators and Web Technicians",
+  "name" : "Computer and Network Operators and Web Technicians",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 23100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 17300.0
+    } ],
+    "name" : "Computer and Network Operators and Web Technicians"
+  } ]
+}

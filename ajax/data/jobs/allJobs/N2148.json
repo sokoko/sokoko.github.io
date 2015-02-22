@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N2148",
+  "description" : "2148 - Other Professional Engineers, n.e.c.",
+  "name" : "Other Professional Engineers, n.e.c.",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 6300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 3000.0
+    } ],
+    "name" : "Other Professional Engineers, n.e.c."
+  } ]
+}

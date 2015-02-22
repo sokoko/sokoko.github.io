@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N2264",
+  "description" : "2264 - Construction Inspectors",
+  "name" : "Construction Inspectors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6700.0
+    } ],
+    "name" : "Construction Inspectors"
+  } ]
+}

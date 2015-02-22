@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N2147",
+  "description" : "2147 - Computer Engineers",
+  "name" : "Computer Engineers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 13100.0
+    } ],
+    "name" : "Computer Engineers"
+  } ]
+}

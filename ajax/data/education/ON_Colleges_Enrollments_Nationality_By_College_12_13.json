@@ -1,0 +1,1143 @@
+{
+  "title" : "Ont. Colleges Foreign Students Enrollment - By College - 2012/2013",
+  "description" : "Ontario Colleges Foreign Students Enrollments - Grouped by College - Year of 2012/2013",
+  "prompt" : "Select a College:",
+  "data" : [ {
+    "entity_name" : "Algonquin College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 294
+    }, {
+      "property" : "2-China",
+      "property_value" : 263
+    }, {
+      "property" : "3-Not Reported",
+      "property_value" : 75
+    }, {
+      "property" : "4-Saudi Arabia",
+      "property_value" : 47
+    }, {
+      "property" : "5-United Kingdom",
+      "property_value" : 42
+    }, {
+      "property" : "6-United States",
+      "property_value" : 39
+    }, {
+      "property" : "7-Nigeria",
+      "property_value" : 38
+    }, {
+      "property" : "8-Haiti",
+      "property_value" : 36
+    }, {
+      "property" : "9-Viet Nam",
+      "property_value" : 36
+    }, {
+      "property" : "10-Philippines",
+      "property_value" : 35
+    }, {
+      "property" : "11-Pakistan",
+      "property_value" : 31
+    }, {
+      "property" : "12-Russian Federation",
+      "property_value" : 28
+    }, {
+      "property" : "13-Lebanon",
+      "property_value" : 25
+    }, {
+      "property" : "14-Korea South",
+      "property_value" : 24
+    }, {
+      "property" : "15-Mexico",
+      "property_value" : 24
+    }, {
+      "property" : "16-Iran",
+      "property_value" : 21
+    }, {
+      "property" : "17-Bangladesh",
+      "property_value" : 19
+    }, {
+      "property" : "18-Nepal",
+      "property_value" : 18
+    }, {
+      "property" : "19-Sri Lanka",
+      "property_value" : 18
+    }, {
+      "property" : "20-Jordan",
+      "property_value" : 17
+    }, {
+      "property" : "21-Colombia",
+      "property_value" : 16
+    }, {
+      "property" : "22-Zambia",
+      "property_value" : 16
+    }, {
+      "property" : "23-Cameroon",
+      "property_value" : 14
+    }, {
+      "property" : "24-Brazil",
+      "property_value" : 12
+    }, {
+      "property" : "25-Japan",
+      "property_value" : 11
+    }, {
+      "property" : "26-Peru",
+      "property_value" : 11
+    }, {
+      "property" : "27-Congo, Democratic Republic Of The",
+      "property_value" : 10
+    }, {
+      "property" : "28-Iraq",
+      "property_value" : 10
+    }, {
+      "property" : "29-Jamaica",
+      "property_value" : 10
+    }, {
+      "property" : "30-Morocco",
+      "property_value" : 10
+    }, {
+      "property" : "31-Ukraine",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Cambrian College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 4354
+    }, {
+      "property" : "2-Nepal",
+      "property_value" : 248
+    }, {
+      "property" : "3-Niger",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Canadore College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 16
+    }, {
+      "property" : "2-China",
+      "property_value" : 15
+    } ]
+  }, {
+    "entity_name" : "Centennial College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 1966
+    }, {
+      "property" : "2-China",
+      "property_value" : 1175
+    }, {
+      "property" : "3-Not Reported",
+      "property_value" : 669
+    }, {
+      "property" : "4-Korea South",
+      "property_value" : 250
+    }, {
+      "property" : "5-Bangladesh",
+      "property_value" : 227
+    }, {
+      "property" : "6-Philippines",
+      "property_value" : 165
+    }, {
+      "property" : "7-Sri Lanka",
+      "property_value" : 127
+    }, {
+      "property" : "8-Jamaica",
+      "property_value" : 117
+    }, {
+      "property" : "9-Pakistan",
+      "property_value" : 84
+    }, {
+      "property" : "10-Nigeria",
+      "property_value" : 74
+    }, {
+      "property" : "11-Venezuela",
+      "property_value" : 48
+    }, {
+      "property" : "12-Russian Federation",
+      "property_value" : 45
+    }, {
+      "property" : "13-Guyana",
+      "property_value" : 44
+    }, {
+      "property" : "14-Ukraine",
+      "property_value" : 37
+    }, {
+      "property" : "15-Viet Nam",
+      "property_value" : 34
+    }, {
+      "property" : "16-Colombia",
+      "property_value" : 33
+    }, {
+      "property" : "17-Iran",
+      "property_value" : 33
+    }, {
+      "property" : "18-Afghanistan",
+      "property_value" : 32
+    }, {
+      "property" : "19-Mexico",
+      "property_value" : 29
+    }, {
+      "property" : "20-Nepal",
+      "property_value" : 29
+    }, {
+      "property" : "21-United States",
+      "property_value" : 25
+    }, {
+      "property" : "22-Turkey",
+      "property_value" : 23
+    }, {
+      "property" : "23-Brazil",
+      "property_value" : 20
+    }, {
+      "property" : "24-Haiti",
+      "property_value" : 19
+    }, {
+      "property" : "25-Saudi Arabia",
+      "property_value" : 18
+    }, {
+      "property" : "26-Ethiopia",
+      "property_value" : 16
+    }, {
+      "property" : "27-Eritrea",
+      "property_value" : 15
+    }, {
+      "property" : "28-Iraq",
+      "property_value" : 14
+    }, {
+      "property" : "29-St Vincent And The Grenadines",
+      "property_value" : 13
+    }, {
+      "property" : "30-Trinidad And Tobago",
+      "property_value" : 13
+    }, {
+      "property" : "31-Panama",
+      "property_value" : 12
+    }, {
+      "property" : "32-Uganda",
+      "property_value" : 12
+    }, {
+      "property" : "33-Japan",
+      "property_value" : 11
+    }, {
+      "property" : "34-Tanzania United Republic Of",
+      "property_value" : 11
+    }, {
+      "property" : "35-United Kingdom",
+      "property_value" : 11
+    }, {
+      "property" : "36-Zimbabwe",
+      "property_value" : 11
+    }, {
+      "property" : "37-Cameroon",
+      "property_value" : 10
+    }, {
+      "property" : "38-Grenada",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "College Boreal",
+    "entity_value" : [ {
+      "property" : "1-Congo, Democratic Republic Of The",
+      "property_value" : 42
+    }, {
+      "property" : "2-Haiti",
+      "property_value" : 41
+    }, {
+      "property" : "3-Cameroon",
+      "property_value" : 16
+    }, {
+      "property" : "4-Burundi",
+      "property_value" : 12
+    }, {
+      "property" : "5-C�te D'ivoire",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Conestoga College",
+    "entity_value" : [ {
+      "property" : "1-China",
+      "property_value" : 412
+    }, {
+      "property" : "2-India",
+      "property_value" : 190
+    }, {
+      "property" : "3-Colombia",
+      "property_value" : 58
+    }, {
+      "property" : "4-Korea South",
+      "property_value" : 51
+    }, {
+      "property" : "5-Saudi Arabia",
+      "property_value" : 47
+    }, {
+      "property" : "6-Nigeria",
+      "property_value" : 45
+    }, {
+      "property" : "7-Pakistan",
+      "property_value" : 32
+    }, {
+      "property" : "8-United Kingdom",
+      "property_value" : 26
+    }, {
+      "property" : "9-Russian Federation",
+      "property_value" : 19
+    }, {
+      "property" : "10-United States",
+      "property_value" : 19
+    }, {
+      "property" : "11-Ukraine",
+      "property_value" : 18
+    }, {
+      "property" : "12-Romania",
+      "property_value" : 17
+    }, {
+      "property" : "13-Iran",
+      "property_value" : 14
+    }, {
+      "property" : "14-Jamaica",
+      "property_value" : 14
+    }, {
+      "property" : "15-Afghanistan",
+      "property_value" : 13
+    }, {
+      "property" : "16-Netherlands",
+      "property_value" : 13
+    }, {
+      "property" : "17-Viet Nam",
+      "property_value" : 13
+    }, {
+      "property" : "18-Philippines",
+      "property_value" : 12
+    }, {
+      "property" : "19-Bangladesh",
+      "property_value" : 11
+    }, {
+      "property" : "20-Brazil",
+      "property_value" : 11
+    }, {
+      "property" : "21-El Salvador",
+      "property_value" : 11
+    }, {
+      "property" : "22-Iraq",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Confederation College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 93
+    }, {
+      "property" : "2-India",
+      "property_value" : 19
+    } ]
+  }, {
+    "entity_name" : "Durham College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 250
+    }, {
+      "property" : "2-China",
+      "property_value" : 36
+    }, {
+      "property" : "3-Jamaica",
+      "property_value" : 20
+    }, {
+      "property" : "4-Philippines",
+      "property_value" : 17
+    }, {
+      "property" : "5-Sri Lanka",
+      "property_value" : 16
+    }, {
+      "property" : "6-United Kingdom",
+      "property_value" : 16
+    }, {
+      "property" : "7-Nigeria",
+      "property_value" : 11
+    }, {
+      "property" : "8-United States",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Fanshawe College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 483
+    }, {
+      "property" : "2-China",
+      "property_value" : 349
+    }, {
+      "property" : "3-Korea South",
+      "property_value" : 92
+    }, {
+      "property" : "4-Colombia",
+      "property_value" : 79
+    }, {
+      "property" : "5-Nigeria",
+      "property_value" : 27
+    }, {
+      "property" : "6-Not Reported",
+      "property_value" : 25
+    }, {
+      "property" : "7-United Kingdom",
+      "property_value" : 25
+    }, {
+      "property" : "8-Bahamas",
+      "property_value" : 22
+    }, {
+      "property" : "9-United States",
+      "property_value" : 20
+    }, {
+      "property" : "10-Palestinian Territory Occupied",
+      "property_value" : 19
+    }, {
+      "property" : "11-Venezuela",
+      "property_value" : 19
+    }, {
+      "property" : "12-Jamaica",
+      "property_value" : 18
+    }, {
+      "property" : "13-Philippines",
+      "property_value" : 17
+    }, {
+      "property" : "14-Iraq",
+      "property_value" : 16
+    }, {
+      "property" : "15-El Salvador",
+      "property_value" : 15
+    }, {
+      "property" : "16-Mexico",
+      "property_value" : 13
+    }, {
+      "property" : "17-Trinidad And Tobago",
+      "property_value" : 12
+    }, {
+      "property" : "18-Netherlands",
+      "property_value" : 10
+    }, {
+      "property" : "19-Pakistan",
+      "property_value" : 10
+    }, {
+      "property" : "20-Ukraine",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "George Brown College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 2829
+    }, {
+      "property" : "2-Philippines",
+      "property_value" : 149
+    }, {
+      "property" : "3-China",
+      "property_value" : 128
+    }, {
+      "property" : "4-India",
+      "property_value" : 67
+    }, {
+      "property" : "5-Korea South",
+      "property_value" : 65
+    }, {
+      "property" : "6-Iran",
+      "property_value" : 49
+    }, {
+      "property" : "7-Bangladesh",
+      "property_value" : 43
+    }, {
+      "property" : "8-Jamaica",
+      "property_value" : 34
+    }, {
+      "property" : "9-Colombia",
+      "property_value" : 32
+    }, {
+      "property" : "10-United States",
+      "property_value" : 29
+    }, {
+      "property" : "11-Pakistan",
+      "property_value" : 28
+    }, {
+      "property" : "12-Brazil",
+      "property_value" : 23
+    }, {
+      "property" : "13-Nigeria",
+      "property_value" : 22
+    }, {
+      "property" : "14-Viet Nam",
+      "property_value" : 21
+    }, {
+      "property" : "15-Mexico",
+      "property_value" : 19
+    }, {
+      "property" : "16-Sri Lanka",
+      "property_value" : 19
+    }, {
+      "property" : "17-Ukraine",
+      "property_value" : 18
+    }, {
+      "property" : "18-United Kingdom",
+      "property_value" : 18
+    }, {
+      "property" : "19-Russian Federation",
+      "property_value" : 14
+    }, {
+      "property" : "20-Turkey",
+      "property_value" : 14
+    }, {
+      "property" : "21-Iraq",
+      "property_value" : 12
+    }, {
+      "property" : "22-Zimbabwe",
+      "property_value" : 12
+    }, {
+      "property" : "23-Ethiopia",
+      "property_value" : 11
+    }, {
+      "property" : "24-St Vincent And The Grenadines",
+      "property_value" : 11
+    }, {
+      "property" : "25-Afghanistan",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Georgian College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 659
+    }, {
+      "property" : "2-India",
+      "property_value" : 19
+    }, {
+      "property" : "3-United Kingdom",
+      "property_value" : 17
+    }, {
+      "property" : "4-China",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Humber College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 2061
+    }, {
+      "property" : "2-China",
+      "property_value" : 520
+    }, {
+      "property" : "3-Philippines",
+      "property_value" : 219
+    }, {
+      "property" : "4-Jamaica",
+      "property_value" : 216
+    }, {
+      "property" : "5-Nigeria",
+      "property_value" : 174
+    }, {
+      "property" : "6-Pakistan",
+      "property_value" : 123
+    }, {
+      "property" : "7-Viet Nam",
+      "property_value" : 101
+    }, {
+      "property" : "8-Korea South",
+      "property_value" : 93
+    }, {
+      "property" : "9-Ukraine",
+      "property_value" : 80
+    }, {
+      "property" : "10-Russian Federation",
+      "property_value" : 76
+    }, {
+      "property" : "11-Sri Lanka",
+      "property_value" : 72
+    }, {
+      "property" : "12-United States",
+      "property_value" : 63
+    }, {
+      "property" : "13-Not Reported",
+      "property_value" : 62
+    }, {
+      "property" : "14-Colombia",
+      "property_value" : 61
+    }, {
+      "property" : "15-Mexico",
+      "property_value" : 61
+    }, {
+      "property" : "16-Guyana",
+      "property_value" : 59
+    }, {
+      "property" : "17-Iraq",
+      "property_value" : 57
+    }, {
+      "property" : "18-Taiwan",
+      "property_value" : 56
+    }, {
+      "property" : "19-Bangladesh",
+      "property_value" : 52
+    }, {
+      "property" : "20-Brazil",
+      "property_value" : 43
+    }, {
+      "property" : "21-Indonesia",
+      "property_value" : 43
+    }, {
+      "property" : "22-Iran",
+      "property_value" : 43
+    }, {
+      "property" : "23-Ghana",
+      "property_value" : 42
+    }, {
+      "property" : "24-Venezuela",
+      "property_value" : 41
+    }, {
+      "property" : "25-Turkey",
+      "property_value" : 37
+    }, {
+      "property" : "26-Nepal",
+      "property_value" : 35
+    }, {
+      "property" : "27-Trinidad And Tobago",
+      "property_value" : 35
+    }, {
+      "property" : "28-Mauritius",
+      "property_value" : 31
+    }, {
+      "property" : "29-Saudi Arabia",
+      "property_value" : 31
+    }, {
+      "property" : "30-Afghanistan",
+      "property_value" : 29
+    }, {
+      "property" : "31-United Kingdom",
+      "property_value" : 29
+    }, {
+      "property" : "32-Poland",
+      "property_value" : 24
+    }, {
+      "property" : "33-Cameroon",
+      "property_value" : 23
+    }, {
+      "property" : "34-St Lucia",
+      "property_value" : 22
+    }, {
+      "property" : "35-Japan",
+      "property_value" : 20
+    }, {
+      "property" : "36-Kenya",
+      "property_value" : 19
+    }, {
+      "property" : "37-Zimbabwe",
+      "property_value" : 17
+    }, {
+      "property" : "38-Egypt",
+      "property_value" : 14
+    }, {
+      "property" : "39-Albania",
+      "property_value" : 13
+    }, {
+      "property" : "40-Cambodia",
+      "property_value" : 13
+    }, {
+      "property" : "41-Cuba",
+      "property_value" : 13
+    }, {
+      "property" : "42-Ecuador",
+      "property_value" : 13
+    }, {
+      "property" : "43-Israel",
+      "property_value" : 13
+    }, {
+      "property" : "44-Grenada",
+      "property_value" : 12
+    }, {
+      "property" : "45-Somalia",
+      "property_value" : 11
+    }, {
+      "property" : "46-Germany",
+      "property_value" : 10
+    }, {
+      "property" : "47-Jordan",
+      "property_value" : 10
+    }, {
+      "property" : "48-Kazakhstan",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "La Cite Collegiale",
+    "entity_value" : [ ]
+  }, {
+    "entity_name" : "Lambton College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 3149
+    } ]
+  }, {
+    "entity_name" : "Loyalist College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 57
+    } ]
+  }, {
+    "entity_name" : "Mohawk College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 1952
+    }, {
+      "property" : "2-India",
+      "property_value" : 455
+    }, {
+      "property" : "3-China",
+      "property_value" : 126
+    }, {
+      "property" : "4-Colombia",
+      "property_value" : 53
+    }, {
+      "property" : "5-Nigeria",
+      "property_value" : 50
+    }, {
+      "property" : "6-Philippines",
+      "property_value" : 41
+    }, {
+      "property" : "7-Pakistan",
+      "property_value" : 38
+    }, {
+      "property" : "8-Iraq",
+      "property_value" : 31
+    }, {
+      "property" : "9-Zimbabwe",
+      "property_value" : 27
+    }, {
+      "property" : "10-Korea South",
+      "property_value" : 20
+    }, {
+      "property" : "11-United States",
+      "property_value" : 20
+    }, {
+      "property" : "12-Mexico",
+      "property_value" : 16
+    }, {
+      "property" : "13-Viet Nam",
+      "property_value" : 14
+    }, {
+      "property" : "14-Jamaica",
+      "property_value" : 13
+    }, {
+      "property" : "15-Saudi Arabia",
+      "property_value" : 12
+    }, {
+      "property" : "16-United Kingdom",
+      "property_value" : 12
+    }, {
+      "property" : "17-Haiti",
+      "property_value" : 11
+    }, {
+      "property" : "18-Romania",
+      "property_value" : 11
+    }, {
+      "property" : "19-Iran",
+      "property_value" : 10
+    }, {
+      "property" : "20-Turkey",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Niagara College",
+    "entity_value" : [ {
+      "property" : "1-China",
+      "property_value" : 344
+    }, {
+      "property" : "2-India",
+      "property_value" : 259
+    }, {
+      "property" : "3-Russian Federation",
+      "property_value" : 63
+    }, {
+      "property" : "4-Not Reported",
+      "property_value" : 50
+    }, {
+      "property" : "5-Nigeria",
+      "property_value" : 44
+    }, {
+      "property" : "6-Korea South",
+      "property_value" : 41
+    }, {
+      "property" : "7-Bahamas",
+      "property_value" : 36
+    }, {
+      "property" : "8-Ukraine",
+      "property_value" : 33
+    }, {
+      "property" : "9-United States",
+      "property_value" : 32
+    }, {
+      "property" : "10-Mexico",
+      "property_value" : 29
+    }, {
+      "property" : "11-Colombia",
+      "property_value" : 26
+    }, {
+      "property" : "12-Japan",
+      "property_value" : 18
+    }, {
+      "property" : "13-Saudi Arabia",
+      "property_value" : 17
+    }, {
+      "property" : "14-United Kingdom",
+      "property_value" : 16
+    }, {
+      "property" : "15-Zimbabwe",
+      "property_value" : 15
+    }, {
+      "property" : "16-Pakistan",
+      "property_value" : 12
+    }, {
+      "property" : "17-Haiti",
+      "property_value" : 10
+    }, {
+      "property" : "18-Jamaica",
+      "property_value" : 10
+    }, {
+      "property" : "19-Philippines",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Northern College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 17
+    } ]
+  }, {
+    "entity_name" : "Sault College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Seneca College",
+    "entity_value" : [ {
+      "property" : "1-China",
+      "property_value" : 1470
+    }, {
+      "property" : "2-India",
+      "property_value" : 650
+    }, {
+      "property" : "3-Not Reported",
+      "property_value" : 524
+    }, {
+      "property" : "4-Korea South",
+      "property_value" : 386
+    }, {
+      "property" : "5-Philippines",
+      "property_value" : 202
+    }, {
+      "property" : "6-Iran",
+      "property_value" : 177
+    }, {
+      "property" : "7-Pakistan",
+      "property_value" : 167
+    }, {
+      "property" : "8-Russian Federation",
+      "property_value" : 159
+    }, {
+      "property" : "9-Sri Lanka",
+      "property_value" : 134
+    }, {
+      "property" : "10-Nigeria",
+      "property_value" : 98
+    }, {
+      "property" : "11-Bangladesh",
+      "property_value" : 93
+    }, {
+      "property" : "12-Ukraine",
+      "property_value" : 93
+    }, {
+      "property" : "13-Jamaica",
+      "property_value" : 87
+    }, {
+      "property" : "14-Afghanistan",
+      "property_value" : 71
+    }, {
+      "property" : "15-Colombia",
+      "property_value" : 69
+    }, {
+      "property" : "16-Viet Nam",
+      "property_value" : 64
+    }, {
+      "property" : "17-Hong Kong",
+      "property_value" : 63
+    }, {
+      "property" : "18-Venezuela",
+      "property_value" : 55
+    }, {
+      "property" : "19-Iraq",
+      "property_value" : 46
+    }, {
+      "property" : "20-Japan",
+      "property_value" : 42
+    }, {
+      "property" : "21-United States",
+      "property_value" : 40
+    }, {
+      "property" : "22-Brazil",
+      "property_value" : 38
+    }, {
+      "property" : "23-Israel",
+      "property_value" : 38
+    }, {
+      "property" : "24-Taiwan",
+      "property_value" : 37
+    }, {
+      "property" : "25-Turkey",
+      "property_value" : 37
+    }, {
+      "property" : "26-Kazakhstan",
+      "property_value" : 35
+    }, {
+      "property" : "27-Mexico",
+      "property_value" : 35
+    }, {
+      "property" : "28-Ghana",
+      "property_value" : 32
+    }, {
+      "property" : "29-Saudi Arabia",
+      "property_value" : 25
+    }, {
+      "property" : "30-Egypt",
+      "property_value" : 24
+    }, {
+      "property" : "31-Guyana",
+      "property_value" : 23
+    }, {
+      "property" : "32-Indonesia",
+      "property_value" : 23
+    }, {
+      "property" : "33-Cameroon",
+      "property_value" : 22
+    }, {
+      "property" : "34-Nepal",
+      "property_value" : 21
+    }, {
+      "property" : "35-St Vincent And The Grenadines",
+      "property_value" : 21
+    }, {
+      "property" : "36-United Kingdom",
+      "property_value" : 21
+    }, {
+      "property" : "37-Tanzania United Republic Of",
+      "property_value" : 20
+    }, {
+      "property" : "38-Trinidad And Tobago",
+      "property_value" : 20
+    }, {
+      "property" : "39-Albania",
+      "property_value" : 17
+    }, {
+      "property" : "40-Moldova, Republic Of",
+      "property_value" : 17
+    }, {
+      "property" : "41-Jordan",
+      "property_value" : 16
+    }, {
+      "property" : "42-St Lucia",
+      "property_value" : 16
+    }, {
+      "property" : "43-El Salvador",
+      "property_value" : 15
+    }, {
+      "property" : "44-Somalia",
+      "property_value" : 15
+    }, {
+      "property" : "45-Ethiopia",
+      "property_value" : 14
+    }, {
+      "property" : "46-Zimbabwe",
+      "property_value" : 14
+    }, {
+      "property" : "47-Uganda",
+      "property_value" : 13
+    }, {
+      "property" : "48-Haiti",
+      "property_value" : 12
+    }, {
+      "property" : "49-Kenya",
+      "property_value" : 12
+    }, {
+      "property" : "50-Panama",
+      "property_value" : 12
+    }, {
+      "property" : "51-Belarus",
+      "property_value" : 11
+    }, {
+      "property" : "52-Bermuda",
+      "property_value" : 11
+    }, {
+      "property" : "53-Mauritius",
+      "property_value" : 11
+    }, {
+      "property" : "54-Argentina",
+      "property_value" : 10
+    }, {
+      "property" : "55-Cambodia",
+      "property_value" : 10
+    }, {
+      "property" : "56-Ecuador",
+      "property_value" : 10
+    }, {
+      "property" : "57-Eritrea",
+      "property_value" : 10
+    }, {
+      "property" : "58-Not Applicable",
+      "property_value" : 10
+    }, {
+      "property" : "59-Yemen",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Sheridan College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 2073
+    }, {
+      "property" : "2-China",
+      "property_value" : 241
+    }, {
+      "property" : "3-Pakistan",
+      "property_value" : 189
+    }, {
+      "property" : "4-Philippines",
+      "property_value" : 118
+    }, {
+      "property" : "5-Korea South",
+      "property_value" : 86
+    }, {
+      "property" : "6-Colombia",
+      "property_value" : 57
+    }, {
+      "property" : "7-Jamaica",
+      "property_value" : 56
+    }, {
+      "property" : "8-Nigeria",
+      "property_value" : 46
+    }, {
+      "property" : "9-Not Reported",
+      "property_value" : 45
+    }, {
+      "property" : "10-United States",
+      "property_value" : 44
+    }, {
+      "property" : "11-Venezuela",
+      "property_value" : 39
+    }, {
+      "property" : "12-Sri Lanka",
+      "property_value" : 38
+    }, {
+      "property" : "13-Viet Nam",
+      "property_value" : 37
+    }, {
+      "property" : "14-United Kingdom",
+      "property_value" : 36
+    }, {
+      "property" : "15-Iraq",
+      "property_value" : 34
+    }, {
+      "property" : "16-Paraguay",
+      "property_value" : 33
+    }, {
+      "property" : "17-Russian Federation",
+      "property_value" : 30
+    }, {
+      "property" : "18-Trinidad And Tobago",
+      "property_value" : 29
+    }, {
+      "property" : "19-Ukraine",
+      "property_value" : 27
+    }, {
+      "property" : "20-Mexico",
+      "property_value" : 25
+    }, {
+      "property" : "21-Peru",
+      "property_value" : 20
+    }, {
+      "property" : "22-Poland",
+      "property_value" : 20
+    }, {
+      "property" : "23-Indonesia",
+      "property_value" : 19
+    }, {
+      "property" : "24-Egypt",
+      "property_value" : 18
+    }, {
+      "property" : "25-Guyana",
+      "property_value" : 17
+    }, {
+      "property" : "26-Jordan",
+      "property_value" : 17
+    }, {
+      "property" : "27-Syria",
+      "property_value" : 17
+    }, {
+      "property" : "28-Bangladesh",
+      "property_value" : 16
+    }, {
+      "property" : "29-Ghana",
+      "property_value" : 16
+    }, {
+      "property" : "30-Nepal",
+      "property_value" : 16
+    }, {
+      "property" : "31-Afghanistan",
+      "property_value" : 15
+    }, {
+      "property" : "32-Hong Kong",
+      "property_value" : 14
+    }, {
+      "property" : "33-Iran",
+      "property_value" : 14
+    }, {
+      "property" : "34-Taiwan",
+      "property_value" : 12
+    }, {
+      "property" : "35-Brazil",
+      "property_value" : 11
+    }, {
+      "property" : "36-South Africa",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Sir Sandford Fleming College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 5787
+    } ]
+  }, {
+    "entity_name" : "St. Clair College",
+    "entity_value" : [ {
+      "property" : "1-Not Reported",
+      "property_value" : 544
+    }, {
+      "property" : "2-India",
+      "property_value" : 122
+    }, {
+      "property" : "3-China",
+      "property_value" : 44
+    }, {
+      "property" : "4-Nigeria",
+      "property_value" : 14
+    }, {
+      "property" : "5-Bangladesh",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "St. Lawrence College",
+    "entity_value" : [ {
+      "property" : "1-India",
+      "property_value" : 22
+    }, {
+      "property" : "2-China",
+      "property_value" : 14
+    }, {
+      "property" : "3-Barbados",
+      "property_value" : 10
+    } ]
+  } ]
+}

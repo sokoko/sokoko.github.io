@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N1472",
+  "description" : "1472 - Storekeepers and Parts Clerks; 1473 - Production Clerks; 1474 - Purchasing and Inventory Clerks; 1475 - Dispatchers and Radio Operators; 1476 - Transportation Route and Crew Schedulers",
+  "name" : "Other Recording, Scheduling and Distributing Occupations (Storekeepers and Parts, Production, Purchasing and Inventory, Dispatchers and Radio Operators, Transportation Route and Crew Schedulers)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 30700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 32700.000000000004
+    } ],
+    "name" : "Other Recording, Scheduling and Distributing Occupations (Storekeepers and Parts, Production, Purchasing and Inventory, Dispatchers and Radio Operators, Transportation Route and Crew Schedulers)"
+  } ]
+}

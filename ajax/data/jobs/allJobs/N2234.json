@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N2234",
+  "description" : "2234 - Construction Estimators",
+  "name" : "Construction Estimators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 6500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 4000.0
+    } ],
+    "name" : "Construction Estimators"
+  } ]
+}

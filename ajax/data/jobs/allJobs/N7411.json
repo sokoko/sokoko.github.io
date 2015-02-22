@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7411",
+  "description" : "7411 - Truck Drivers",
+  "name" : "Truck Drivers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 105700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 85300.0
+    } ],
+    "name" : "Truck Drivers"
+  } ]
+}

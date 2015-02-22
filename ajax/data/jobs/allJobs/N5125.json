@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N5125",
+  "description" : "5125 - Translators, Terminologists and Interpreters",
+  "name" : "Translators, Terminologists and Interpreters",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7000.0
+    } ],
+    "name" : "Translators, Terminologists and Interpreters"
+  } ]
+}

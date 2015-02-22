@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N8255",
+  "description" : "8255 - Landscaping and Grounds Maintenance Contractors and Managers; 8256 - Supervisors, Landscape and Horticulture",
+  "name" : "Landscaping and Grounds Maintenance Contractors and Managers & Supervisors, Landscape and Horticulture",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 18000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 13900.0
+    } ],
+    "name" : "Landscaping and Grounds Maintenance Contractors and Managers & Supervisors, Landscape and Horticulture"
+  } ]
+}

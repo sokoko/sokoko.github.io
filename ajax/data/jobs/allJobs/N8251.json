@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N8251",
+  "description" : "8251 - Farmers and Farm Managers; 8252 - Agricultural and Related Service Contractors and Managers; 8253 - Farm Supervisors and Specialized Livestock Workers; 8254 - Nursery and Greenhouse Operators and Managers; 8257 - Aquaculture Operators and Managers",
+  "name" : "Farmers and Farm Managers & Other Agricultural Supervisors and Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 55800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 35500.0
+    } ],
+    "name" : "Farmers and Farm Managers & Other Agricultural Supervisors and Managers"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N9421",
+  "description" : "9421 - Chemical Plant Machine Operators; 9424 - Water and Waste Plant Operators",
+  "name" : "Chemical Plant Machine Operators & Water and Waste Plant Operators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7500.0
+    } ],
+    "name" : "Chemical Plant Machine Operators & Water and Waste Plant Operators"
+  } ]
+}

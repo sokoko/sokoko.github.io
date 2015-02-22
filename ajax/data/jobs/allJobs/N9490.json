@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N9490",
+  "description" : "9491 - Boat Assemblers and Inspectors; 9492 - Furniture and Fixture Assemblers and Inspectors; 9493 - Other Wood Products Assemblers and Inspectors; 9494 - Furniture Finishers and Refinishers; 9495 - Plastic Products Assemblers, Finishers and Inspectors; 9496 - Painters and Coaters, Manufacturing",
+  "name" : "Other Assembly And Related Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 29600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 30400.0
+    } ],
+    "name" : "Other Assembly And Related Occupations"
+  } ]
+}

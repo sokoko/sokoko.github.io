@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N1121",
+  "description" : "1121 - Specialists in Human Resources",
+  "name" : "Specialists in Human Resources",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 35200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 40800.0
+    } ],
+    "name" : "Specialists in Human Resources"
+  } ]
+}

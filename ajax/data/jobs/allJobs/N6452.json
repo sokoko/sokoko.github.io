@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6452",
+  "description" : "6452 - Bartenders",
+  "name" : "Bartenders",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 3500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 3200.0
+    } ],
+    "name" : "Bartenders"
+  } ]
+}

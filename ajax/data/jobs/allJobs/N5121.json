@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N5121",
+  "description" : "5121 - Writers; 5122 - Editors; 5123 - Journalists",
+  "name" : "Writers, Editors & Journalists",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 19500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 23300.0
+    } ],
+    "name" : "Writers, Editors & Journalists"
+  } ]
+}

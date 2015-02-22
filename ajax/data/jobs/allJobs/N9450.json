@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N9450",
+  "description" : "9451 - Sewing Machine Operators; 9452 - Fabric, Fur and Leather Cutters; 9453 - Hide and Pelt Processing Workers; 9454 - Inspectors and Testers, Fabric, Fur and Leather Products Manufacturing",
+  "name" : "Machine Operators And Related Workers In Fabric, Fur And Leather",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 12200.0
+    } ],
+    "name" : "Machine Operators And Related Workers In Fabric, Fur And Leather"
+  } ]
+}

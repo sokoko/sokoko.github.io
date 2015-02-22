@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0111",
+  "description" : "0111 - Financial Managers",
+  "name" : "Financial Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 29100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 27300.0
+    } ],
+    "name" : "Financial Managers"
+  } ]
+}

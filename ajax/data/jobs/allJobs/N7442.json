@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7442",
+  "description" : "7442 - Waterworks and Gas Maintenance Workers; 7443 - Automotive Mechanical Installers and Servicers; 7444 - Pest Controllers and Fumigators; 7445 - Other Repairers and Servicers",
+  "name" : "Other Installers, Repairers and Services",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 10000.0
+    } ],
+    "name" : "Other Installers, Repairers and Services"
+  } ]
+}

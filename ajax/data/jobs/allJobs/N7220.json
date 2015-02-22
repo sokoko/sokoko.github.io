@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N7220",
+  "description" : "7221 - Supervisors, Railway Transport Operations; 7222 - Supervisors, Motor Transport and Other Ground Transit Operators",
+  "name" : "Supervisors, Railway And Motor Transportation Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 12700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 16000.0
+    } ],
+    "name" : "Supervisors, Railway And Motor Transportation Occupations"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7422",
+  "description" : "7422 - Public Works Maintenance Equipment Operators",
+  "name" : "Public Works Maintenance Equipment Operators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 12100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9000.0
+    } ],
+    "name" : "Public Works Maintenance Equipment Operators"
+  } ]
+}

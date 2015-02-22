@@ -1,0 +1,2748 @@
+{
+  "title" : "Ont. Universities Foreign Students - By Country - 2012/2013",
+  "description" : "Ontario Universities Foreign Students Enrollments - Grouped by Country - Year of 2012/2013",
+  "prompt" : "Select a Country from the Follwing:",
+  "data" : [ {
+    "entity_name" : "Afghanistan",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 83
+    }, {
+      "property" : "Toronto",
+      "property_value" : 47
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 27
+    }, {
+      "property" : "Carleton",
+      "property_value" : 26
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 24
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 16
+    }, {
+      "property" : "Uoit",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Albania",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 49
+    }, {
+      "property" : "York",
+      "property_value" : 45
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Algeria",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 61
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Argentina",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 30
+    }, {
+      "property" : "York",
+      "property_value" : 15
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    }, {
+      "property" : "Western",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Armenia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 26
+    } ]
+  }, {
+    "entity_name" : "Australia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 110
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 44
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 38
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 36
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 25
+    }, {
+      "property" : "York",
+      "property_value" : 21
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Austria",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Azerbaijan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 56
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Bahamas",
+    "entity_value" : [ {
+      "property" : "Trent",
+      "property_value" : 14
+    }, {
+      "property" : "Brock",
+      "property_value" : 12
+    }, {
+      "property" : "Toronto",
+      "property_value" : 11
+    }, {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Bahrain",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Bangladesh",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 354
+    }, {
+      "property" : "York",
+      "property_value" : 196
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 153
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 133
+    }, {
+      "property" : "Carleton",
+      "property_value" : 88
+    }, {
+      "property" : "Windsor",
+      "property_value" : 82
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 70
+    }, {
+      "property" : "Western",
+      "property_value" : 67
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 49
+    }, {
+      "property" : "Uoit",
+      "property_value" : 37
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 35
+    }, {
+      "property" : "Guelph",
+      "property_value" : 28
+    }, {
+      "property" : "Brock",
+      "property_value" : 23
+    }, {
+      "property" : "Trent",
+      "property_value" : 12
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Barbados",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 22
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 16
+    }, {
+      "property" : "Western",
+      "property_value" : 15
+    }, {
+      "property" : "York",
+      "property_value" : 13
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Belarus",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 24
+    }, {
+      "property" : "Toronto",
+      "property_value" : 18
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Belgium",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 23
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 17
+    }, {
+      "property" : "Toronto",
+      "property_value" : 17
+    }, {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Benin",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 31
+    } ]
+  }, {
+    "entity_name" : "Bermuda",
+    "entity_value" : [ {
+      "property" : "Brock",
+      "property_value" : 17
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Uoit",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Botswana",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 24
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 23
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 21
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 20
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Brazil",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 191
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 62
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 43
+    }, {
+      "property" : "York",
+      "property_value" : 39
+    }, {
+      "property" : "Carleton",
+      "property_value" : 28
+    }, {
+      "property" : "Guelph",
+      "property_value" : 28
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 21
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 19
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 14
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Ocad",
+      "property_value" : 10
+    }, {
+      "property" : "Windsor",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Bulgaria",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 30
+    }, {
+      "property" : "York",
+      "property_value" : 16
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 10
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Burkina Faso",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Burundi",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 117
+    }, {
+      "property" : "York",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Cameroon",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 115
+    }, {
+      "property" : "Toronto",
+      "property_value" : 22
+    }, {
+      "property" : "York",
+      "property_value" : 22
+    } ]
+  }, {
+    "entity_name" : "Canada",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 52914
+    }, {
+      "property" : "York",
+      "property_value" : 36433
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 29789
+    }, {
+      "property" : "Western",
+      "property_value" : 28992
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 24533
+    }, {
+      "property" : "Guelph",
+      "property_value" : 23365
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 21868
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 19635
+    }, {
+      "property" : "Carleton",
+      "property_value" : 18557
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 18506
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 15185
+    }, {
+      "property" : "Brock",
+      "property_value" : 13912
+    }, {
+      "property" : "Windsor",
+      "property_value" : 11326
+    }, {
+      "property" : "Uoit",
+      "property_value" : 7272
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 6740
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 6111
+    }, {
+      "property" : "Trent",
+      "property_value" : 6102
+    }, {
+      "property" : "Nipissing",
+      "property_value" : 3705
+    }, {
+      "property" : "Ocad",
+      "property_value" : 2991
+    }, {
+      "property" : "Algoma",
+      "property_value" : 869
+    }, {
+      "property" : "Nosm",
+      "property_value" : 378
+    }, {
+      "property" : "Dominician",
+      "property_value" : 84
+    } ]
+  }, {
+    "entity_name" : "Chile",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 44
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 14
+    }, {
+      "property" : "York",
+      "property_value" : 13
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "China",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 7300
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 3202
+    }, {
+      "property" : "York",
+      "property_value" : 2044
+    }, {
+      "property" : "Western",
+      "property_value" : 1671
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 1282
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 1071
+    }, {
+      "property" : "Brock",
+      "property_value" : 995
+    }, {
+      "property" : "Carleton",
+      "property_value" : 729
+    }, {
+      "property" : "Windsor",
+      "property_value" : 677
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 502
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 340
+    }, {
+      "property" : "Guelph",
+      "property_value" : 296
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 267
+    }, {
+      "property" : "Trent",
+      "property_value" : 149
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 148
+    }, {
+      "property" : "Ocad",
+      "property_value" : 102
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 76
+    }, {
+      "property" : "Uoit",
+      "property_value" : 65
+    }, {
+      "property" : "Algoma",
+      "property_value" : 38
+    } ]
+  }, {
+    "entity_name" : "Colombia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 137
+    }, {
+      "property" : "York",
+      "property_value" : 83
+    }, {
+      "property" : "Western",
+      "property_value" : 74
+    }, {
+      "property" : "Carleton",
+      "property_value" : 47
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 43
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 35
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 31
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 31
+    }, {
+      "property" : "Guelph",
+      "property_value" : 24
+    }, {
+      "property" : "Brock",
+      "property_value" : 17
+    }, {
+      "property" : "Windsor",
+      "property_value" : 16
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 12
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Congo",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Congo, Democratic Republic Of The",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 105
+    }, {
+      "property" : "York",
+      "property_value" : 26
+    }, {
+      "property" : "Carleton",
+      "property_value" : 17
+    } ]
+  }, {
+    "entity_name" : "Croatia",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Cuba",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 15
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Czech Republic",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Cote D'ivoire",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 75
+    }, {
+      "property" : "York",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Denmark",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 15
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 11
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Djibouti",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 20
+    } ]
+  }, {
+    "entity_name" : "Ecuador",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 14
+    }, {
+      "property" : "York",
+      "property_value" : 14
+    }, {
+      "property" : "Carleton",
+      "property_value" : 11
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Egypt",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 278
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 148
+    }, {
+      "property" : "Carleton",
+      "property_value" : 134
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 108
+    }, {
+      "property" : "York",
+      "property_value" : 96
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 95
+    }, {
+      "property" : "Western",
+      "property_value" : 84
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 65
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 44
+    }, {
+      "property" : "Windsor",
+      "property_value" : 31
+    }, {
+      "property" : "Uoit",
+      "property_value" : 25
+    }, {
+      "property" : "Guelph",
+      "property_value" : 22
+    }, {
+      "property" : "Brock",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "El Salvador",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 13
+    }, {
+      "property" : "Toronto",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "England",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 40
+    }, {
+      "property" : "York",
+      "property_value" : 25
+    }, {
+      "property" : "Carleton",
+      "property_value" : 21
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 20
+    }, {
+      "property" : "Guelph",
+      "property_value" : 16
+    }, {
+      "property" : "Western",
+      "property_value" : 16
+    }, {
+      "property" : "Trent",
+      "property_value" : 15
+    }, {
+      "property" : "Brock",
+      "property_value" : 14
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 12
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Eritrea",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Ethiopia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 30
+    }, {
+      "property" : "York",
+      "property_value" : 30
+    }, {
+      "property" : "Carleton",
+      "property_value" : 27
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 25
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 17
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Finland",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "France",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 263
+    }, {
+      "property" : "Toronto",
+      "property_value" : 95
+    }, {
+      "property" : "York",
+      "property_value" : 94
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 64
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 60
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 36
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 30
+    }, {
+      "property" : "Carleton",
+      "property_value" : 24
+    }, {
+      "property" : "Windsor",
+      "property_value" : 14
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 13
+    }, {
+      "property" : "Guelph",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Georgia",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Germany",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 185
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 87
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 62
+    }, {
+      "property" : "York",
+      "property_value" : 62
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 41
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 38
+    }, {
+      "property" : "Carleton",
+      "property_value" : 24
+    }, {
+      "property" : "Western",
+      "property_value" : 20
+    }, {
+      "property" : "Guelph",
+      "property_value" : 19
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 19
+    }, {
+      "property" : "Windsor",
+      "property_value" : 15
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Ghana",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 77
+    }, {
+      "property" : "Toronto",
+      "property_value" : 51
+    }, {
+      "property" : "Carleton",
+      "property_value" : 34
+    }, {
+      "property" : "Brock",
+      "property_value" : 33
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 32
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 30
+    }, {
+      "property" : "Western",
+      "property_value" : 25
+    }, {
+      "property" : "Windsor",
+      "property_value" : 23
+    }, {
+      "property" : "Guelph",
+      "property_value" : 19
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 19
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Greece",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 41
+    } ]
+  }, {
+    "entity_name" : "Grenada",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 18
+    } ]
+  }, {
+    "entity_name" : "Guinea",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 24
+    } ]
+  }, {
+    "entity_name" : "Guyana",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 57
+    }, {
+      "property" : "Toronto",
+      "property_value" : 45
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 28
+    } ]
+  }, {
+    "entity_name" : "Haiti",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 183
+    }, {
+      "property" : "York",
+      "property_value" : 28
+    }, {
+      "property" : "Carleton",
+      "property_value" : 16
+    }, {
+      "property" : "Toronto",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Hong Kong",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 406
+    }, {
+      "property" : "York",
+      "property_value" : 112
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 68
+    }, {
+      "property" : "Western",
+      "property_value" : 48
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 34
+    }, {
+      "property" : "Ocad",
+      "property_value" : 23
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 22
+    }, {
+      "property" : "Windsor",
+      "property_value" : 22
+    }, {
+      "property" : "Uoit",
+      "property_value" : 21
+    }, {
+      "property" : "Guelph",
+      "property_value" : 20
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 17
+    }, {
+      "property" : "Carleton",
+      "property_value" : 16
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 16
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Hungary",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "India",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 1394
+    }, {
+      "property" : "York",
+      "property_value" : 736
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 685
+    }, {
+      "property" : "Windsor",
+      "property_value" : 416
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 389
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 385
+    }, {
+      "property" : "Carleton",
+      "property_value" : 256
+    }, {
+      "property" : "Western",
+      "property_value" : 236
+    }, {
+      "property" : "Uoit",
+      "property_value" : 212
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 181
+    }, {
+      "property" : "Guelph",
+      "property_value" : 155
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 153
+    }, {
+      "property" : "Brock",
+      "property_value" : 129
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 70
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 36
+    }, {
+      "property" : "Trent",
+      "property_value" : 23
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 20
+    }, {
+      "property" : "Ocad",
+      "property_value" : 16
+    }, {
+      "property" : "Algoma",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Indonesia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 92
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 41
+    }, {
+      "property" : "York",
+      "property_value" : 36
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 22
+    }, {
+      "property" : "Carleton",
+      "property_value" : 16
+    }, {
+      "property" : "Guelph",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Iran",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 770
+    }, {
+      "property" : "York",
+      "property_value" : 523
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 439
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 349
+    }, {
+      "property" : "Western",
+      "property_value" : 264
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 242
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 183
+    }, {
+      "property" : "Carleton",
+      "property_value" : 179
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 127
+    }, {
+      "property" : "Windsor",
+      "property_value" : 92
+    }, {
+      "property" : "Ocad",
+      "property_value" : 59
+    }, {
+      "property" : "Guelph",
+      "property_value" : 58
+    }, {
+      "property" : "Uoit",
+      "property_value" : 39
+    }, {
+      "property" : "Brock",
+      "property_value" : 30
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 18
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 16
+    } ]
+  }, {
+    "entity_name" : "Iraq",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 88
+    }, {
+      "property" : "York",
+      "property_value" : 63
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 62
+    }, {
+      "property" : "Carleton",
+      "property_value" : 55
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 51
+    }, {
+      "property" : "Windsor",
+      "property_value" : 35
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 32
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 30
+    }, {
+      "property" : "Western",
+      "property_value" : 24
+    }, {
+      "property" : "Guelph",
+      "property_value" : 20
+    } ]
+  }, {
+    "entity_name" : "Ireland Republic Of (eire)",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 55
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 13
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Israel",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 193
+    }, {
+      "property" : "York",
+      "property_value" : 117
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 20
+    }, {
+      "property" : "Western",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 14
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 14
+    }, {
+      "property" : "Guelph",
+      "property_value" : 13
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Italy",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 76
+    }, {
+      "property" : "York",
+      "property_value" : 29
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 19
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 15
+    }, {
+      "property" : "Western",
+      "property_value" : 15
+    }, {
+      "property" : "Windsor",
+      "property_value" : 11
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Jamaica",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 156
+    }, {
+      "property" : "Toronto",
+      "property_value" : 91
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 47
+    }, {
+      "property" : "Western",
+      "property_value" : 29
+    }, {
+      "property" : "Guelph",
+      "property_value" : 27
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 22
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 21
+    }, {
+      "property" : "Uoit",
+      "property_value" : 18
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 16
+    }, {
+      "property" : "Windsor",
+      "property_value" : 14
+    }, {
+      "property" : "Brock",
+      "property_value" : 13
+    }, {
+      "property" : "Trent",
+      "property_value" : 13
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 12
+    }, {
+      "property" : "Carleton",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Japan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 210
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 104
+    }, {
+      "property" : "York",
+      "property_value" : 47
+    }, {
+      "property" : "Carleton",
+      "property_value" : 22
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 19
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Jordan",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 128
+    }, {
+      "property" : "Toronto",
+      "property_value" : 119
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 47
+    }, {
+      "property" : "Western",
+      "property_value" : 38
+    }, {
+      "property" : "York",
+      "property_value" : 36
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 31
+    }, {
+      "property" : "Windsor",
+      "property_value" : 31
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 27
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 27
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 21
+    } ]
+  }, {
+    "entity_name" : "Kazakhstan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 79
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 24
+    }, {
+      "property" : "York",
+      "property_value" : 24
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 17
+    }, {
+      "property" : "Carleton",
+      "property_value" : 15
+    } ]
+  }, {
+    "entity_name" : "Kenya",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 56
+    }, {
+      "property" : "Toronto",
+      "property_value" : 44
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 34
+    }, {
+      "property" : "Carleton",
+      "property_value" : 31
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 18
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 17
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 14
+    }, {
+      "property" : "Guelph",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Korea South",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 1492
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 485
+    }, {
+      "property" : "York",
+      "property_value" : 454
+    }, {
+      "property" : "Western",
+      "property_value" : 269
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 158
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 155
+    }, {
+      "property" : "Ocad",
+      "property_value" : 129
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 121
+    }, {
+      "property" : "Carleton",
+      "property_value" : 78
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 68
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 47
+    }, {
+      "property" : "Guelph",
+      "property_value" : 45
+    }, {
+      "property" : "Brock",
+      "property_value" : 25
+    }, {
+      "property" : "Windsor",
+      "property_value" : 16
+    }, {
+      "property" : "Uoit",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Kuwait",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 32
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Lebanon",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 91
+    }, {
+      "property" : "Toronto",
+      "property_value" : 89
+    }, {
+      "property" : "Carleton",
+      "property_value" : 51
+    }, {
+      "property" : "Windsor",
+      "property_value" : 33
+    }, {
+      "property" : "York",
+      "property_value" : 32
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 26
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 23
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 12
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Libya",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 23
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 21
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 20
+    }, {
+      "property" : "Western",
+      "property_value" : 11
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Macau",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "Malaysia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 257
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 130
+    }, {
+      "property" : "Carleton",
+      "property_value" : 107
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 49
+    }, {
+      "property" : "York",
+      "property_value" : 35
+    }, {
+      "property" : "Guelph",
+      "property_value" : 30
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 23
+    }, {
+      "property" : "Trent",
+      "property_value" : 21
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 17
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 10
+    }, {
+      "property" : "Uoit",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Mali",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 15
+    } ]
+  }, {
+    "entity_name" : "Mauritius",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 81
+    }, {
+      "property" : "York",
+      "property_value" : 68
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 35
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 17
+    }, {
+      "property" : "Carleton",
+      "property_value" : 15
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Mexico",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 114
+    }, {
+      "property" : "York",
+      "property_value" : 48
+    }, {
+      "property" : "Western",
+      "property_value" : 40
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 39
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 38
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 32
+    }, {
+      "property" : "Carleton",
+      "property_value" : 26
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 21
+    }, {
+      "property" : "Guelph",
+      "property_value" : 18
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 16
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 13
+    }, {
+      "property" : "Windsor",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Moldova, Republic Of",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 14
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Morocco",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 76
+    }, {
+      "property" : "Toronto",
+      "property_value" : 13
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Nepal",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 38
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 29
+    }, {
+      "property" : "Carleton",
+      "property_value" : 20
+    }, {
+      "property" : "York",
+      "property_value" : 19
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 16
+    }, {
+      "property" : "Guelph",
+      "property_value" : 12
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Netherlands",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 48
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 26
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 24
+    }, {
+      "property" : "Guelph",
+      "property_value" : 21
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "York",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 11
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 11
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "New Zealand",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 34
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Niger",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Nigeria",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 350
+    }, {
+      "property" : "Carleton",
+      "property_value" : 250
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 240
+    }, {
+      "property" : "Toronto",
+      "property_value" : 240
+    }, {
+      "property" : "Windsor",
+      "property_value" : 201
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 119
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 104
+    }, {
+      "property" : "Uoit",
+      "property_value" : 64
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 52
+    }, {
+      "property" : "Western",
+      "property_value" : 49
+    }, {
+      "property" : "Brock",
+      "property_value" : 47
+    }, {
+      "property" : "Trent",
+      "property_value" : 44
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 40
+    }, {
+      "property" : "Guelph",
+      "property_value" : 31
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 31
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 24
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 22
+    }, {
+      "property" : "Algoma",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Norway",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 20
+    }, {
+      "property" : "Toronto",
+      "property_value" : 18
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 12
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Not Reported",
+    "entity_value" : [ {
+      "property" : "Western",
+      "property_value" : 292
+    }, {
+      "property" : "Uoit",
+      "property_value" : 141
+    }, {
+      "property" : "Carleton",
+      "property_value" : 20
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 18
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 18
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Oman",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 21
+    } ]
+  }, {
+    "entity_name" : "Pakistan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 688
+    }, {
+      "property" : "York",
+      "property_value" : 545
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 407
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 188
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 182
+    }, {
+      "property" : "Carleton",
+      "property_value" : 137
+    }, {
+      "property" : "Western",
+      "property_value" : 132
+    }, {
+      "property" : "Windsor",
+      "property_value" : 118
+    }, {
+      "property" : "Uoit",
+      "property_value" : 111
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 109
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 77
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 64
+    }, {
+      "property" : "Brock",
+      "property_value" : 62
+    }, {
+      "property" : "Guelph",
+      "property_value" : 52
+    }, {
+      "property" : "Trent",
+      "property_value" : 22
+    }, {
+      "property" : "Ocad",
+      "property_value" : 12
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Palestinian Territory Occupied",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 35
+    }, {
+      "property" : "Toronto",
+      "property_value" : 32
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 17
+    }, {
+      "property" : "Western",
+      "property_value" : 16
+    }, {
+      "property" : "Windsor",
+      "property_value" : 12
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Panama",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Peru",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 38
+    }, {
+      "property" : "York",
+      "property_value" : 23
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Philippines",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 328
+    }, {
+      "property" : "York",
+      "property_value" : 156
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 134
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 70
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 49
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 32
+    }, {
+      "property" : "Guelph",
+      "property_value" : 30
+    }, {
+      "property" : "Carleton",
+      "property_value" : 26
+    }, {
+      "property" : "Uoit",
+      "property_value" : 26
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "Windsor",
+      "property_value" : 17
+    }, {
+      "property" : "Brock",
+      "property_value" : 16
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 14
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Poland",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 48
+    }, {
+      "property" : "York",
+      "property_value" : 24
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 16
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 15
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 12
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Portugal",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 25
+    }, {
+      "property" : "York",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Romania",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 62
+    }, {
+      "property" : "York",
+      "property_value" : 34
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 27
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 18
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Carleton",
+      "property_value" : 13
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 11
+    }, {
+      "property" : "Windsor",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Russia (old U.s.s.r.)",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 30
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 22
+    }, {
+      "property" : "Western",
+      "property_value" : 20
+    } ]
+  }, {
+    "entity_name" : "Russian Federation",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 144
+    }, {
+      "property" : "Toronto",
+      "property_value" : 137
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 45
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 35
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 33
+    }, {
+      "property" : "Trent",
+      "property_value" : 33
+    }, {
+      "property" : "Carleton",
+      "property_value" : 30
+    }, {
+      "property" : "Brock",
+      "property_value" : 12
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Rwanda",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 81
+    }, {
+      "property" : "Toronto",
+      "property_value" : 17
+    }, {
+      "property" : "York",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Saudi Arabia",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 259
+    }, {
+      "property" : "Toronto",
+      "property_value" : 199
+    }, {
+      "property" : "Carleton",
+      "property_value" : 191
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 188
+    }, {
+      "property" : "Western",
+      "property_value" : 151
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 120
+    }, {
+      "property" : "Algoma",
+      "property_value" : 113
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 113
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 87
+    }, {
+      "property" : "Uoit",
+      "property_value" : 81
+    }, {
+      "property" : "Brock",
+      "property_value" : 78
+    }, {
+      "property" : "York",
+      "property_value" : 71
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 57
+    }, {
+      "property" : "Windsor",
+      "property_value" : 56
+    }, {
+      "property" : "Trent",
+      "property_value" : 45
+    }, {
+      "property" : "Guelph",
+      "property_value" : 35
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 15
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Senegal",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 40
+    }, {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Serbia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 12
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Serbia And Montenegro",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "Singapore",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 135
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 29
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 23
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 22
+    }, {
+      "property" : "York",
+      "property_value" : 22
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Slovakia",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Somalia",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 24
+    }, {
+      "property" : "York",
+      "property_value" : 21
+    }, {
+      "property" : "Carleton",
+      "property_value" : 17
+    }, {
+      "property" : "Toronto",
+      "property_value" : 16
+    } ]
+  }, {
+    "entity_name" : "South Africa",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 28
+    }, {
+      "property" : "Western",
+      "property_value" : 14
+    }, {
+      "property" : "Guelph",
+      "property_value" : 13
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 11
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Spain",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 39
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 21
+    }, {
+      "property" : "York",
+      "property_value" : 16
+    }, {
+      "property" : "Carleton",
+      "property_value" : 15
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Sri Lanka",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 217
+    }, {
+      "property" : "York",
+      "property_value" : 124
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 92
+    }, {
+      "property" : "Uoit",
+      "property_value" : 66
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 61
+    }, {
+      "property" : "Carleton",
+      "property_value" : 55
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 54
+    }, {
+      "property" : "Western",
+      "property_value" : 31
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 28
+    }, {
+      "property" : "Guelph",
+      "property_value" : 24
+    }, {
+      "property" : "Windsor",
+      "property_value" : 13
+    }, {
+      "property" : "Brock",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "St Lucia",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 23
+    } ]
+  }, {
+    "entity_name" : "St Vincent And The Grenadines",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 16
+    } ]
+  }, {
+    "entity_name" : "Sudan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 29
+    }, {
+      "property" : "Windsor",
+      "property_value" : 17
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 12
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    }, {
+      "property" : "Western",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Sweden",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 24
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 22
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 21
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 13
+    }, {
+      "property" : "York",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Switzerland",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 32
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 14
+    }, {
+      "property" : "York",
+      "property_value" : 12
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 11
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Syria",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 46
+    }, {
+      "property" : "Carleton",
+      "property_value" : 43
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 31
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 24
+    }, {
+      "property" : "York",
+      "property_value" : 21
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 19
+    }, {
+      "property" : "Western",
+      "property_value" : 19
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 15
+    }, {
+      "property" : "Windsor",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Taiwan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 437
+    }, {
+      "property" : "York",
+      "property_value" : 53
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 48
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 41
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 28
+    }, {
+      "property" : "Carleton",
+      "property_value" : 16
+    }, {
+      "property" : "Western",
+      "property_value" : 15
+    }, {
+      "property" : "Ocad",
+      "property_value" : 14
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 12
+    }, {
+      "property" : "Guelph",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Tanzania United Republic Of",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 29
+    }, {
+      "property" : "Toronto",
+      "property_value" : 26
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 18
+    } ]
+  }, {
+    "entity_name" : "Thailand",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 57
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 18
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 12
+    }, {
+      "property" : "York",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Togo",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 13
+    } ]
+  }, {
+    "entity_name" : "Total",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 73215
+    }, {
+      "property" : "York",
+      "property_value" : 45164
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 35132
+    }, {
+      "property" : "Western",
+      "property_value" : 33486
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 32187
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 25793
+    }, {
+      "property" : "Guelph",
+      "property_value" : 24920
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 22728
+    }, {
+      "property" : "Carleton",
+      "property_value" : 22436
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 21049
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 16203
+    }, {
+      "property" : "Brock",
+      "property_value" : 15854
+    }, {
+      "property" : "Windsor",
+      "property_value" : 13710
+    }, {
+      "property" : "Uoit",
+      "property_value" : 8472
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 7100
+    }, {
+      "property" : "Trent",
+      "property_value" : 6824
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 6753
+    }, {
+      "property" : "Nipissing",
+      "property_value" : 3766
+    }, {
+      "property" : "Ocad",
+      "property_value" : 3571
+    }, {
+      "property" : "Algoma",
+      "property_value" : 1106
+    }, {
+      "property" : "Nosm",
+      "property_value" : 387
+    }, {
+      "property" : "Dominician",
+      "property_value" : 107
+    } ]
+  }, {
+    "entity_name" : "Trinidad And Tobago",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 100
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 97
+    }, {
+      "property" : "York",
+      "property_value" : 58
+    }, {
+      "property" : "Western",
+      "property_value" : 51
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 34
+    }, {
+      "property" : "Guelph",
+      "property_value" : 28
+    }, {
+      "property" : "Brock",
+      "property_value" : 15
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Tunisia",
+    "entity_value" : [ {
+      "property" : "Ottawa",
+      "property_value" : 44
+    } ]
+  }, {
+    "entity_name" : "Turkey",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 149
+    }, {
+      "property" : "York",
+      "property_value" : 72
+    }, {
+      "property" : "Carleton",
+      "property_value" : 57
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 37
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 33
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 19
+    }, {
+      "property" : "Western",
+      "property_value" : 18
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 17
+    }, {
+      "property" : "Uoit",
+      "property_value" : 14
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 13
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Uganda",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 20
+    }, {
+      "property" : "Toronto",
+      "property_value" : 17
+    }, {
+      "property" : "York",
+      "property_value" : 15
+    } ]
+  }, {
+    "entity_name" : "Ukraine",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 101
+    }, {
+      "property" : "York",
+      "property_value" : 92
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 33
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 23
+    }, {
+      "property" : "Western",
+      "property_value" : 19
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 15
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "United Arab Emirates",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 28
+    }, {
+      "property" : "Carleton",
+      "property_value" : 24
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 21
+    }, {
+      "property" : "York",
+      "property_value" : 14
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "United Kingdom",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 298
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 103
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 97
+    }, {
+      "property" : "York",
+      "property_value" : 87
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 69
+    }, {
+      "property" : "Carleton",
+      "property_value" : 61
+    }, {
+      "property" : "Western",
+      "property_value" : 53
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 49
+    }, {
+      "property" : "Guelph",
+      "property_value" : 31
+    }, {
+      "property" : "Brock",
+      "property_value" : 27
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 27
+    }, {
+      "property" : "Windsor",
+      "property_value" : 26
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 20
+    }, {
+      "property" : "Ocad",
+      "property_value" : 14
+    }, {
+      "property" : "Trent",
+      "property_value" : 13
+    }, {
+      "property" : "Uoit",
+      "property_value" : 12
+    } ]
+  }, {
+    "entity_name" : "United States",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 905
+    }, {
+      "property" : "Queen\"s",
+      "property_value" : 273
+    }, {
+      "property" : "York",
+      "property_value" : 234
+    }, {
+      "property" : "Western",
+      "property_value" : 169
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 138
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 130
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 123
+    }, {
+      "property" : "Guelph",
+      "property_value" : 121
+    }, {
+      "property" : "Carleton",
+      "property_value" : 98
+    }, {
+      "property" : "Windsor",
+      "property_value" : 80
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 79
+    }, {
+      "property" : "Brock",
+      "property_value" : 59
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 36
+    }, {
+      "property" : "Trent",
+      "property_value" : 32
+    }, {
+      "property" : "Lakehead",
+      "property_value" : 27
+    }, {
+      "property" : "Ocad",
+      "property_value" : 27
+    }, {
+      "property" : "Laurentian",
+      "property_value" : 14
+    }, {
+      "property" : "Uoit",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Uzbekistan",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 10
+    } ]
+  }, {
+    "entity_name" : "Venezuela",
+    "entity_value" : [ {
+      "property" : "Toronto",
+      "property_value" : 42
+    }, {
+      "property" : "York",
+      "property_value" : 39
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 25
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "Carleton",
+      "property_value" : 15
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 14
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Viet Nam",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 131
+    }, {
+      "property" : "Toronto",
+      "property_value" : 101
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 46
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 38
+    }, {
+      "property" : "Waterloo",
+      "property_value" : 34
+    }, {
+      "property" : "Carleton",
+      "property_value" : 33
+    }, {
+      "property" : "Mcmaster",
+      "property_value" : 24
+    }, {
+      "property" : "Western",
+      "property_value" : 17
+    }, {
+      "property" : "Wilfrid Laurier",
+      "property_value" : 15
+    }, {
+      "property" : "Uoit",
+      "property_value" : 11
+    } ]
+  }, {
+    "entity_name" : "Yemen",
+    "entity_value" : [ {
+      "property" : "Carleton",
+      "property_value" : 14
+    } ]
+  }, {
+    "entity_name" : "Zimbabwe",
+    "entity_value" : [ {
+      "property" : "York",
+      "property_value" : 39
+    }, {
+      "property" : "Toronto",
+      "property_value" : 26
+    }, {
+      "property" : "Brock",
+      "property_value" : 22
+    }, {
+      "property" : "Trent",
+      "property_value" : 18
+    }, {
+      "property" : "Ryerson",
+      "property_value" : 16
+    }, {
+      "property" : "Ottawa",
+      "property_value" : 11
+    }, {
+      "property" : "Carleton",
+      "property_value" : 10
+    } ]
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N1211",
+  "description" : "1211 - Supervisors, General Office and Administrative Support Clerks",
+  "name" : "Supervisors, General Office and Administrative Support Clerks",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6000.0
+    } ],
+    "name" : "Supervisors, General Office and Administrative Support Clerks"
+  } ]
+}

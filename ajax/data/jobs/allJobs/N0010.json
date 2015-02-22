@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0010",
+  "description" : "0011 - Legislators; 0012 - Senior Government Managers and Officials; 0013 - Senior Managers - Financial, Communications Carriers and Other Business Services; 0014 - Senior Managers - Health, Education, Social and Community Services and Membership Organizations; 0015 - Senior Managers - Trade, Broadcasting and Other Services, n.e.c.; 0016 - Senior Managers - Goods Production, Utilities, Transportation and Construction",
+  "name" : "Legislators And Senior Management",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 36100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 35000.0
+    } ],
+    "name" : "Legislators And Senior Management"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6622",
+  "description" : "6622 - Grocery Clerks and Shelf Stockers",
+  "name" : "Grocery Clerks and Shelf Stockers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 44900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 25500.0
+    } ],
+    "name" : "Grocery Clerks and Shelf Stockers"
+  } ]
+}

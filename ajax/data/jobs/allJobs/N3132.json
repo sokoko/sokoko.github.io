@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N3132",
+  "description" : "3132 - Dietitians and Nutritionists",
+  "name" : "Dietitians and Nutritionists",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 4100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 4000.0
+    } ],
+    "name" : "Dietitians and Nutritionists"
+  } ]
+}

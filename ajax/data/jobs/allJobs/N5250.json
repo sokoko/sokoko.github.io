@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N5250",
+  "description" : "5251 - Athletes; 5252 - Coaches; 5253 - Sports Officials and Referees; 5254 - Program Leaders and Instructors in Recreation and Sport",
+  "name" : "Athletes, Coaches, Referees And Related Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 27300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 64200.0
+    } ],
+    "name" : "Athletes, Coaches, Referees And Related Occupations"
+  } ]
+}

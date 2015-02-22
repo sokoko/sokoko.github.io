@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N2221",
+  "description" : "2221 - Biological Technologists and Technicians",
+  "name" : "Biological Technologists and Technicians",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 3100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 2100.0
+    } ],
+    "name" : "Biological Technologists and Technicians"
+  } ]
+}

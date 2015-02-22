@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6421",
+  "description" : "6421 - Retail Salespersons And Sales Clerks",
+  "name" : "Retail Salespersons and Sales Clerks",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 119400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 111600.0
+    } ],
+    "name" : "Retail Salespersons and Sales Clerks"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6271",
+  "description" : "6271 - Hairstylists and Barbers",
+  "name" : "Hairstylists and Barbers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 27100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 29500.0
+    } ],
+    "name" : "Hairstylists and Barbers"
+  } ]
+}

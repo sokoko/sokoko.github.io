@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N1433",
+  "description" : "1433 - Tellers, Financial Services",
+  "name" : "Tellers, Financial Services",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 30500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 51900.0
+    } ],
+    "name" : "Tellers, Financial Services"
+  } ]
+}

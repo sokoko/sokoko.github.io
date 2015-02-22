@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6471",
+  "description" : "6471 - Visiting Homemakers, Housekeepers and Related Occupations",
+  "name" : "Visiting Homemakers, Housekeepers and Related Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 27800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 24000.0
+    } ],
+    "name" : "Visiting Homemakers, Housekeepers and Related Occupations"
+  } ]
+}

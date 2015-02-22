@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N0121",
+  "description" : "0121 - Insurance, Real Estate and Financial Brokerage Managers",
+  "name" : "Insurance, Real Estate and Financial Brokerage Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 12000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8400.0
+    } ],
+    "name" : "Insurance, Real Estate and Financial Brokerage Managers"
+  } ]
+}

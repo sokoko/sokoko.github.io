@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N7242",
+  "description" : "7242 - Industrial Electricians; 7243 - Power System Electricians",
+  "name" : "Industrial & Power System Electricians",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 11100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6000.0
+    } ],
+    "name" : "Industrial & Power System Electricians"
+  } ]
+}

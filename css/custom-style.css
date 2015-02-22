@@ -1,0 +1,72 @@
+.categories-list{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.charts-count{
+	color: #9cd70e !important;
+}
+
+.cars-fuel-table{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 15px;
+}
+
+/*Comapre cars************************************************/
+.compare-cars-title{
+	text-align: center;
+	margin: 0;
+	padding: 7px 2px 2px 2px;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.compare-cars-year{
+	margin: 0;
+	padding: 2px;
+	font-size: 17px;
+}
+
+.compare-car-block ul li {
+	padding: 10px 20px;
+	font-size: 16px;
+}
+
+.compare-car-values{
+	color: #FF3115;
+	font-weight: bold;
+}
+
+.car-comparator-selection label{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.emptyIndexCar{
+	font-size: 100px;
+	color: rgb(202, 202, 202);
+}
+
+.compare-car-empty-block{
+	min-height: 500px;
+}
+
+.emptyIndexCarNumber{
+	font-size: 110px;
+	color: rgb(202, 202, 202) !important;
+}
+
+.compare-cars-question-mark{
+	color: #5bc0de;
+}
+
+.city-rent-selection label{
+	font-weight: bold;
+	font-size: 17px;
+}
+
+.city-rent-price{
+	font-size: 22px;
+	font-weight: bold;
+	color: rgb(0, 181, 0);
+}

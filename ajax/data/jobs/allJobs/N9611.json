@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9611",
+  "description" : "9611 - Labourers in Mineral and Metal Processing; 9612 - Labourers in Metal Fabrication",
+  "name" : "Labourers in Mineral and Metal Processing & Metal Fabrication",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 4200.0
+    } ],
+    "name" : "Labourers in Mineral and Metal Processing & Metal Fabrication"
+  } ]
+}

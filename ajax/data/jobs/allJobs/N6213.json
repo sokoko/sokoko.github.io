@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6213",
+  "description" : "6213 - Executive Housekeepers; 6214 - Dry Cleaning and Laundry Supervisors; 6215 - Cleaning Supervisors; 6216 - Other Service Supervisors",
+  "name" : "Other Services Supervisors (Executive Housekeepers, Cleaning, Others)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 16200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 12900.0
+    } ],
+    "name" : "Other Services Supervisors (Executive Housekeepers, Cleaning, Others)"
+  } ]
+}

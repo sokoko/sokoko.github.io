@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N0213",
+  "description" : "0213 - Information Systems and Data Processing Managers",
+  "name" : "Information Systems and Data Processing Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 29900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 24300.0
+    } ],
+    "name" : "Information Systems and Data Processing Managers"
+  } ]
+}
