@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N5221",
+  "description" : "5221 - Photographers",
+  "name" : "Photographers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 5000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 5000.0
+    } ],
+    "name" : "Photographers"
+  } ]
+}

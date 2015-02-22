@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N3214",
+  "description" : "3214 - Respiratory Therapists and Clinical Perfusionists; 3215 - Medical Radiation Technologists; 3216 - Medical Sonographers; 3217 - Cardiology Technologists; 3218 - Electroencephalographic and Other Diagnostic Technologists, n.e.c.; 3219 - Other Medical Technologists and Technicians (except Dental Health)",
+  "name" : "Other Medical Technologists and Technicians",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 15300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 16000.0
+    } ],
+    "name" : "Other Medical Technologists and Technicians"
+  } ]
+}

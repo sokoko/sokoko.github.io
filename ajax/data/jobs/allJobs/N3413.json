@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N3413",
+  "description" : "3413 - Nurse Aides and Orderlies; 3414 - Other Aides and Assistants in Support of Health Services",
+  "name" : "Nurse Aides and Orderlies & Other Aides and Assistants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 139300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 127200.0
+    } ],
+    "name" : "Nurse Aides and Orderlies & Other Aides and Assistants"
+  } ]
+}

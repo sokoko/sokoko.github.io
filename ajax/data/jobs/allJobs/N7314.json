@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N7314",
+  "description" : "7314 - Railway Carmen/women; 7315 - Aircraft Mechanics and Aircraft Inspectors",
+  "name" : "Railway Carmen/women & Aircraft Mechanics and Aircraft Inspectors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 4800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7300.0
+    } ],
+    "name" : "Railway Carmen/women & Aircraft Mechanics and Aircraft Inspectors"
+  } ]
+}

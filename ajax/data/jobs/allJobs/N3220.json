@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N3220",
+  "description" : "3221 - Denturists; 3222 - Dental Hygienists and Dental Therapists; 3223 - Dental Technicians and Laboratory Bench Workers",
+  "name" : "Technical Occupations In Dental Health Care",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 11300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9100.0
+    } ],
+    "name" : "Technical Occupations In Dental Health Care"
+  } ]
+}

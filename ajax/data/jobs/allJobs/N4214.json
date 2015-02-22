@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N4214",
+  "description" : "4214 - Early Childhood Educators and Assistants",
+  "name" : "Early Childhood Educators and Assistants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 85900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 77600.0
+    } ],
+    "name" : "Early Childhood Educators and Assistants"
+  } ]
+}

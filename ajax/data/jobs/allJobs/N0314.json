@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0314",
+  "description" : "0314 - Managers in Social, Community and Correctional Services",
+  "name" : "Managers in Social, Community and Correctional Services",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 15900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 16400.0
+    } ],
+    "name" : "Managers in Social, Community and Correctional Services"
+  } ]
+}

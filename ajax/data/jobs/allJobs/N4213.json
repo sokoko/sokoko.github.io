@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N4213",
+  "description" : "4213 - Employment Counsellors",
+  "name" : "Employment Counsellors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 4000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 5000.0
+    } ],
+    "name" : "Employment Counsellors"
+  } ]
+}

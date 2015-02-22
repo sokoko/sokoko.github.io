@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6211",
+  "description" : "6211 - Retail Trade Supervisors",
+  "name" : "Retail Trade Supervisors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 42100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 50700.0
+    } ],
+    "name" : "Retail Trade Supervisors"
+  } ]
+}

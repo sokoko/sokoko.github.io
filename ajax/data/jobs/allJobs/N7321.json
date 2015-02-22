@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7321",
+  "description" : "7321 - Motor Vehicle Mechanics, Technicians and Mechanical Repairers",
+  "name" : "Motor Vehicle Mechanics, Technicians and Mechanical Repairers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 31600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 30700.0
+    } ],
+    "name" : "Motor Vehicle Mechanics, Technicians and Mechanical Repairers"
+  } ]
+}

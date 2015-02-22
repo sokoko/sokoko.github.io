@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N1111",
+  "description" : "1111 - Financial Auditors and Accountants",
+  "name" : "Financial Auditors and Accountants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 88200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 87100.0
+    } ],
+    "name" : "Financial Auditors and Accountants"
+  } ]
+}

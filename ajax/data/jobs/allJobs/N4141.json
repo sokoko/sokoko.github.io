@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N4141",
+  "description" : "4141 - Secondary School Teachers",
+  "name" : "Secondary School Teachers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 46300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 47300.0
+    } ],
+    "name" : "Secondary School Teachers"
+  } ]
+}

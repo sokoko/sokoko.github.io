@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0112",
+  "description" : "0112 - Human Resources Managers; 0113 - Purchasing Managers; 0114 - Other Administrative Services Managers",
+  "name" : "Other Services Managers (Human Resources, Purchasing and Others)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 23400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 22700.0
+    } ],
+    "name" : "Other Services Managers (Human Resources, Purchasing and Others)"
+  } ]
+}

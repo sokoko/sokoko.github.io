@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N9431",
+  "description" : "9431 - Sawmill Machine Operators; 9434 - Other Wood Processing Machine Operators; 9436 - Lumber Graders and Other Wood Processing Inspectors and Graders",
+  "name" : "Sawmill Machine Operators & Other Wood Processing Machine Operators and Inspectors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8000.0
+    } ],
+    "name" : "Sawmill Machine Operators & Other Wood Processing Machine Operators and Inspectors"
+  } ]
+}

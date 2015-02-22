@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9484",
+  "description" : "9484 - Assemblers and Inspectors, Electrical Appliance, Apparatus and Equipment Manufacturing; 9485 - Assemblers, Fabricators and Inspectors, Industrial Electrical Motors and Transformers; 9486 - Mechanical Assemblers and Inspectors; 9487 - Machine Operators and Inspectors, Electrical Apparatus Manufacturing",
+  "name" : "Assemblers and Inspectors, Other Mechanical and Electrical",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 11100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 14000.0
+    } ],
+    "name" : "Assemblers and Inspectors, Other Mechanical and Electrical"
+  } ]
+}

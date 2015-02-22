@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7213",
+  "description" : "7213 - Contractors and Supervisors, Pipefitting Trades; 7214 - Contractors and Supervisors, Metal Forming, Shaping and Erecting Trades",
+  "name" : "Contractors and Supervisors, Pipefitting Trades & Metal Forming, Shaping and Erecting Trades",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7000.0
+    } ],
+    "name" : "Contractors and Supervisors, Pipefitting Trades & Metal Forming, Shaping and Erecting Trades"
+  } ]
+}

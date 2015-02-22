@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N2210",
+  "description" : "2211 - Applied Chemical Technologists and Technicians; 2212 - Geological and Mineral Technologists and Technicians; 2213 - Meteorological Technicians",
+  "name" : "Technical Occupations In Physical Sciences",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 10200.0
+    } ],
+    "name" : "Technical Occupations In Physical Sciences"
+  } ]
+}

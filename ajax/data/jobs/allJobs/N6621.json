@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N6621",
+  "description" : "6621 - Service Station Attendants; 6623 - Other Elemental Sales Occupations",
+  "name" : "Service Station Attendants & Other Elemental Sales Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 6100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9200.0
+    } ],
+    "name" : "Service Station Attendants & Other Elemental Sales Occupations"
+  } ]
+}

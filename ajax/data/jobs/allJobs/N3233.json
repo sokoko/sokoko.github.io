@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N3233",
+  "description" : "3233 - Registered Nursing Assistants",
+  "name" : "Registered Nursing Assistants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 27800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 19100.0
+    } ],
+    "name" : "Registered Nursing Assistants"
+  } ]
+}

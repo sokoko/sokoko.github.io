@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N7430",
+  "description" : "7431 - Railway Yard Workers; 7432 - Railway Track Maintenance Workers; 7433 - Deck Crew, Water Transport; 7434 - Engine Room Crew, Water Transport; 7435 - Lock and Cable Ferry Operators and Related Occupations; 7436 - Boat Operators",
+  "name" : "Other Transport Equipment Operators And Related Workers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 4100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7000.0
+    } ],
+    "name" : "Other Transport Equipment Operators And Related Workers"
+  } ]
+}

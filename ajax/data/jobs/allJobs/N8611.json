@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N8611",
+  "description" : "8611 - Harvesting Labourers; 8613 - Aquaculture and Marine Harvest Labourers; 8616 - Logging and Forestry Labourers",
+  "name" : "Harvesting, Aquaculture Labourers & Logging and Forestry Labourers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 1800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 1200.0
+    } ],
+    "name" : "Harvesting, Aquaculture Labourers & Logging and Forestry Labourers"
+  } ]
+}

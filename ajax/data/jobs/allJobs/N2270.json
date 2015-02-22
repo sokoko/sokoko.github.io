@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N2270",
+  "description" : "2271 - Air Pilots, Flight Engineers and Flying Instructors; 2272 - Air Traffic Control Occupations; 2273 - Deck Officers, Water Transport; 2274 - Engineer Officers, Water Transport; 2275 - Railway and Marine Traffic Controllers",
+  "name" : "Transportation Officers And Controllers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 9300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8000.0
+    } ],
+    "name" : "Transportation Officers And Controllers"
+  } ]
+}

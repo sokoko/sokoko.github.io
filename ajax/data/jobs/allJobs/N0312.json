@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0312",
+  "description" : "0312 - Administrators in Post-Secondary Education and Vocational Training",
+  "name" : "Administrators in Post-secondary Education and Vocational Training",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9000.0
+    } ],
+    "name" : "Administrators in Post-secondary Education and Vocational Training"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7216",
+  "description" : "7216 - Contractors and Supervisors, Mechanic Trades",
+  "name" : "Contractors and Supervisors, Mechanic Trades",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 22000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 18100.0
+    } ],
+    "name" : "Contractors and Supervisors, Mechanic Trades"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N6411",
+  "description" : "6411 - Sales Representatives, Wholesale Trade (Non-Technical)",
+  "name" : "Sales Representatives, Wholesale Trade (Non-Technical)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 82200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 76900.0
+    } ],
+    "name" : "Sales Representatives, Wholesale Trade (Non-Technical)"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N7380",
+  "description" : "7381 - Printing Press Operators; 7382 - Commercial Divers; 7383 - Other Trades and Related Occupations",
+  "name" : "Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations,",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 5800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6000.0
+    } ],
+    "name" : "Printing Press Operators, Commercial Divers And Other Trades, And Related Occupations,"
+  } ]
+}

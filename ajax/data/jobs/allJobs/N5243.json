@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N5243",
+  "description" : "5243 - Theatre, Fashion, Exhibit and Other Creative Designers; 5244 - Artisans and Craftspersons; 5245 - Patternmakers - Textile, Leather and Fur Products",
+  "name" : "Other Creative Designers and Craftspersons",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 5300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6600.0
+    } ],
+    "name" : "Other Creative Designers and Craftspersons"
+  } ]
+}

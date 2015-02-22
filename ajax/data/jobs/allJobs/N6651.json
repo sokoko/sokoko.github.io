@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6651",
+  "description" : "6651 - Security Guards and Related Occupations",
+  "name" : "Security Guards and Related Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 34900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 33700.0
+    } ],
+    "name" : "Security Guards and Related Occupations"
+  } ]
+}

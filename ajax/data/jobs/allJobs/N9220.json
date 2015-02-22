@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9220",
+  "description" : "9221 - Supervisors, Motor Vehicle Assembling; 9222 - Supervisors, Electronics Manufacturing; 9223 - Supervisors, Electrical Products Manufacturing; 9224 - Supervisors, Furniture and Fixtures Manufacturing; 9225 - Supervisors, Fabric, Fur and Leather Products Manufacturing; 9226 - Supervisors, Other Mechanical and Metal Products Manufacturing",
+  "name" : "Supervisors, Assembly And Fabrication",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 19100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 15000.0
+    } ],
+    "name" : "Supervisors, Assembly And Fabrication"
+  } ]
+}

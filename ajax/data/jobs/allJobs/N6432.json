@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6432",
+  "description" : "6432 - Pursers and Flight Attendants",
+  "name" : "Pursers and Flight Attendants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 3100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 2700.0
+    } ],
+    "name" : "Pursers and Flight Attendants"
+  } ]
+}

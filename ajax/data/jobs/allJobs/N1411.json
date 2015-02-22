@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N1411",
+  "description" : "1411 - General Office Clerks; 1413 - Records and File Clerks",
+  "name" : "General Office Clerks & Records and File Clerks",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 1100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 35000.0
+    } ],
+    "name" : "General Office Clerks & Records and File Clerks"
+  } ]
+}

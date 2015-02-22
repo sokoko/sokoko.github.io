@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N1122",
+  "description" : "1122 - Professional Occupations in Business Services to Management",
+  "name" : "Professional Occupations in Business Services to Management",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 79500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 63600.0
+    } ],
+    "name" : "Professional Occupations in Business Services to Management"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N1450",
+  "description" : "1451 - Library Clerks; 1452 - Correspondence, Publication and Related Clerks; 1453 - Customer Service, Information and Related Clerks; 1454 - Survey Interviewers and Statistical Clerks",
+  "name" : "Library, Correspondence And Related Information Clerks",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 45600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 63200.0
+    } ],
+    "name" : "Library, Correspondence And Related Information Clerks"
+  } ]
+}

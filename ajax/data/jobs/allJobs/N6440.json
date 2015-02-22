@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N6440",
+  "description" : "6441 - Tour and Travel Guides; 6442 - Outdoor Sport and Recreational Guides; 6443 - Casino Occupations",
+  "name" : "Tour And Recreational Guides And Amusement Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 5900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9000.0
+    } ],
+    "name" : "Tour And Recreational Guides And Amusement Occupations"
+  } ]
+}

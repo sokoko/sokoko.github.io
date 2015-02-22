@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N7272",
+  "description" : "7272 - Cabinetmakers",
+  "name" : "Cabinetmakers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 3200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 3000.0
+    } ],
+    "name" : "Cabinetmakers"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N6451",
+  "description" : "6451 - Maetres d'hotel and Hosts/Hostesses",
+  "name" : "Maetres d'hotel and Hosts/Hostesses",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 9400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7900.0
+    } ],
+    "name" : "Maetres d'hotel and Hosts/Hostesses"
+  } ]
+}

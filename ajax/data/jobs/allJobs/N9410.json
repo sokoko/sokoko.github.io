@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9410",
+  "description" : "9411 - Machine Operators, Mineral and Metal Processing; 9412 - Foundry Workers; 9413 - Glass Forming and Finishing Machine Operators and Glass Cutters; 9414 - Concrete, Clay and Stone Forming Operators; 9415 - Inspectors and Testers, Mineral and Metal Processing",
+  "name" : "Machine Operators And Related Workers In Metal And Mineral Products Processing",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7500.0
+    } ],
+    "name" : "Machine Operators And Related Workers In Metal And Mineral Products Processing"
+  } ]
+}

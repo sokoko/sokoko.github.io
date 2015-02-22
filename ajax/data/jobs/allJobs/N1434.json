@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N1434",
+  "description" : "1434 - Banking, Insurance and Other Financial Clerks; 1435 - Collectors",
+  "name" : "Banking, Insurance and Other Financial Clerks & Collectors",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 16300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 25400.0
+    } ],
+    "name" : "Banking, Insurance and Other Financial Clerks & Collectors"
+  } ]
+}

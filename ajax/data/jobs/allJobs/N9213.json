@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9213",
+  "description" : "9213 - Supervisors, Food, Beverage and Tobacco Processing; 9214 - Supervisors, Plastic and Rubber Products Manufacturing; 9215 - Supervisors, Forest Products Processing; 9216 - Supervisors, Textile Processing",
+  "name" : "Other Supervisors, Processing Occupations",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 16400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 14900.0
+    } ],
+    "name" : "Other Supervisors, Processing Occupations"
+  } ]
+}

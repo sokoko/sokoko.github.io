@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N6670",
+  "description" : "6671 - Attendants in Amusement, Recreation and Sport; 6672 - Other Attendants in Accommodation and Travel (except Airline Travel)",
+  "name" : "Other Attendants In Travel, Accommodation And Recreation",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 11500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9100.0
+    } ],
+    "name" : "Other Attendants In Travel, Accommodation And Recreation"
+  } ]
+}

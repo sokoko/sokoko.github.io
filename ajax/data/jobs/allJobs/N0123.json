@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0123",
+  "description" : "0123 - Other Business Services Managers",
+  "name" : "Other Business Services Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7000.0
+    } ],
+    "name" : "Other Business Services Managers"
+  } ]
+}

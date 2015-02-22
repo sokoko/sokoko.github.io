@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N0910",
+  "description" : "0911 - Manufacturing Managers; 0912 - Utilities Managers",
+  "name" : "Managers In Manufacturing And Utilities",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 32400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 27100.0
+    } ],
+    "name" : "Managers In Manufacturing And Utilities"
+  } ]
+}

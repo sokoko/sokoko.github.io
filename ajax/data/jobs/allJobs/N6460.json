@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N6460",
+  "description" : "6461 - Sheriffs and Bailiffs; 6462 - Correctional Service Officers; 6463 - By-law Enforcement and Other Regulatory Officers, n.e.c.; 6464 - Other Ranks, Armed Forces; 6465 - Other Protective Service Occupations",
+  "name" : "Other Occupations In Protective Service",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 9300.0
+    } ],
+    "name" : "Other Occupations In Protective Service"
+  } ]
+}

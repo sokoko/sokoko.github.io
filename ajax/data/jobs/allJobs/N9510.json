@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N9510",
+  "description" : "9511 - Machining Tool Operators; 9512 - Forging Machine Operators; 9513 - Woodworking Machine Operators; 9514 - Metalworking Machine Operators; 9516 - Other Metal Products Machine Operators; 9517 - Other Products Machine Operators",
+  "name" : "Machining, Metalworking, Woodworking And Related Machine Operators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 28200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 28100.0
+    } ],
+    "name" : "Machining, Metalworking, Woodworking And Related Machine Operators"
+  } ]
+}

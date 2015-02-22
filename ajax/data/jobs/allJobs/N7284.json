@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7284",
+  "description" : "7284 - Plasterers, Drywall Installers and Finishers, and Lathers",
+  "name" : "Plasterers, Drywall Installers and Finishers, and Lathers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8300.0
+    } ],
+    "name" : "Plasterers, Drywall Installers and Finishers, and Lathers"
+  } ]
+}

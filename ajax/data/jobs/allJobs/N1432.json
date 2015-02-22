@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N1432",
+  "description" : "1432 - Payroll Clerks",
+  "name" : "Payroll Clerks",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 19200.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 10100.0
+    } ],
+    "name" : "Payroll Clerks"
+  } ]
+}

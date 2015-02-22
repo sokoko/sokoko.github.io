@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7311",
+  "description" : "7311 - Construction Millwrights and Industrial Mechanics (except Textile)",
+  "name" : "Construction Millwrights and Industrial Mechanics (except Textile)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 27400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 23900.0
+    } ],
+    "name" : "Construction Millwrights and Industrial Mechanics (except Textile)"
+  } ]
+}

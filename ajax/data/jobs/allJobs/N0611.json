@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N0611",
+  "description" : "0611 - Sales, Marketing and Advertising Managers",
+  "name" : "Sales, Marketing and Advertising Managers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 42800.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 45300.0
+    } ],
+    "name" : "Sales, Marketing and Advertising Managers"
+  } ]
+}

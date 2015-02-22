@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N6661",
+  "description" : "6661 - Light Duty Cleaners; 6662 - Specialized Cleaners",
+  "name" : "Light Duty & Specialized Cleaners",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 99100.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 76700.0
+    } ],
+    "name" : "Light Duty & Specialized Cleaners"
+  } ]
+}

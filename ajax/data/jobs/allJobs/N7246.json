@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7246",
+  "description" : "7246 - Telecommunications Installation and Repair Workers; 7247 - Cable Television Service and Maintenance Technicians",
+  "name" : "Telecommunications Installation and Repair Workers & Cable Television Service and Maintenance Technicians",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 13300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 10300.0
+    } ],
+    "name" : "Telecommunications Installation and Repair Workers & Cable Television Service and Maintenance Technicians"
+  } ]
+}

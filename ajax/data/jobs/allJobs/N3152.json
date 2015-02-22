@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N3152",
+  "description" : "3152 - Registered Nurses",
+  "name" : "Registered Nurses",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 142700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 98200.0
+    } ],
+    "name" : "Registered Nurses"
+  } ]
+}

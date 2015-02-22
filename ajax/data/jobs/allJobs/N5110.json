@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N5110",
+  "description" : "5111 - Librarians; 5112 - Conservators and Curators; 5113 - Archivists",
+  "name" : "Librarians, Archivists, Conservators And Curators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 4900.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 6300.0
+    } ],
+    "name" : "Librarians, Archivists, Conservators And Curators"
+  } ]
+}

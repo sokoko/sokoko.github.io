@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7421",
+  "description" : "7421 - Heavy Equipment Operators (except Crane)",
+  "name" : "Heavy Equipment Operators (except Crane)",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 30600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 38200.0
+    } ],
+    "name" : "Heavy Equipment Operators (except Crane)"
+  } ]
+}

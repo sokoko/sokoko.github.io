@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N0712",
+  "description" : "0712 - Residential Home Builders and Renovators",
+  "name" : "Residential Home Builders and Renovators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 57500.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 54200.0
+    } ],
+    "name" : "Residential Home Builders and Renovators"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N3211",
+  "description" : "3211 - Medical Laboratory Technologists and Pathologists' Assistants; 3212 - Medical Laboratory Technicians",
+  "name" : "Medical Laboratory Technologists & Technicians and Pathologists' Assistants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 18000.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 15600.0
+    } ],
+    "name" : "Medical Laboratory Technologists & Technicians and Pathologists' Assistants"
+  } ]
+}

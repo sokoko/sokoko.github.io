@@ -1,0 +1,18 @@
+{
+  "assessment" : "SHORTAGE",
+  "code" : "N6262",
+  "description" : "6262 - Fire-fighters",
+  "name" : "Fire-fighters",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 11700.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 11200.0
+    } ],
+    "name" : "Fire-fighters"
+  } ]
+}

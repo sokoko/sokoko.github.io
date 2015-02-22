@@ -1,0 +1,18 @@
+{
+  "assessment" : "SURPLUS",
+  "code" : "N1463",
+  "description" : "1463 - Couriers and Messengers",
+  "name" : "Couriers and Messengers",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8100.0
+    } ],
+    "name" : "Couriers and Messengers"
+  } ]
+}

@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N2172",
+  "description" : "2172 - Database Analysts and Data Administrators",
+  "name" : "Database Analysts and Data Administrators",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 10400.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 11500.0
+    } ],
+    "name" : "Database Analysts and Data Administrators"
+  } ]
+}

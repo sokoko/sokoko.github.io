@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7252",
+  "description" : "7252 - Steamfitters, Pipefitters and Sprinkler System Installers; 7253 - Gas Fitters",
+  "name" : "Steamfitters, Pipefitters and Sprinkler System Installers & Gas Fitters",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 8300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 7500.0
+    } ],
+    "name" : "Steamfitters, Pipefitters and Sprinkler System Installers & Gas Fitters"
+  } ]
+}

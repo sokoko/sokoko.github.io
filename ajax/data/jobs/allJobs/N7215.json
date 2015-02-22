@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N7215",
+  "description" : "7215 - Contractors and Supervisors, Carpentry Trades",
+  "name" : "Contractors and Supervisors, Carpentry Trades",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 7300.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 8000.0
+    } ],
+    "name" : "Contractors and Supervisors, Carpentry Trades"
+  } ]
+}

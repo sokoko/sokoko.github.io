@@ -1,0 +1,18 @@
+{
+  "assessment" : "BALANCE",
+  "code" : "N4162",
+  "description" : "4162 - Economists and Economic Policy Researchers and Analysts; 4163 - Economic Development Officers and Marketing Researchers and Consultants",
+  "name" : "Economists and Economic Policy Researchers and Analysts & Economic Development Officers and Marketing Researchers and Consultants",
+  "series" : [ {
+    "data" : [ {
+      "name" : "Cumulative Job Openings 2013/2022",
+      "color" : "red",
+      "y" : 20600.0
+    }, {
+      "name" : "Cumulative Job Seekers 2013/2022",
+      "color" : "green",
+      "y" : 27100.0
+    } ],
+    "name" : "Economists and Economic Policy Researchers and Analysts & Economic Development Officers and Marketing Researchers and Consultants"
+  } ]
+}
