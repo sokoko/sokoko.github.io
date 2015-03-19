@@ -1,0 +1,12 @@
+{
+  "title" : "Ont. Colleges - Country of Origin of International Students for each College - 2012/2013",
+  "description" : "Ont. Colleges - Country of Origin of International Students for each College - 2012/2013",
+  "categories" : [ "Northern College", "College Boreal", "St. Lawrence College", "St. Clair College", "Loyalist College", "George Brown College", "Confederation College", "Canadore College", "Georgian College", "Lambton College", "Seneca College", "La Cite Collegiale", "Sheridan College", "Sir Sandford Fleming College", "Humber College", "Durham College", "Sault College", "Fanshawe College", "Centennial College", "Conestoga College", "Niagara College", "Cambrian College", "Algonquin College", "Mohawk College" ],
+  "series" : [ {
+    "name" : "Female",
+    "data" : [ 913, 1001, 3777, 4506, 1555, 9420, 1745, 1380, 5199, 1836, 10160, 2294, 8605, 2927, 11538, 4304, 1160, 6891, 6383, 5074, 4190, 2257, 7537, 5560 ]
+  }, {
+    "name" : "Male",
+    "data" : [ 392, 563, 2177, 3545, 1241, 7769, 1480, 1171, 4488, 1641, 9655, 2133, 8332, 2857, 11552, 4439, 1190, 7337, 6911, 5387, 4406, 2401, 8492, 6561 ]
+  } ]
+}
